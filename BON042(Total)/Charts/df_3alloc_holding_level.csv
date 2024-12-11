@@ -1,0 +1,28 @@
+Current Weight,Name,G0,G1,G2,G3,G4,G5,G6,G7,G8,PeerGroup,OptimiserCategory,Type
+5.146210224406593,iShares S&P 500 ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,AUD,US,,World Other Equity,International Equities - Unhedged,ETF
+1.9404654111661728,iShares S&P 500 AUD Hedged ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,USD,US,,World Other Equity,International Equities - Unhedged,ETF
+0.9806451509533937,iShares Europe ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Europe,AUD,Europe,,Europe Equity,International Equities - Unhedged,ETF
+0.5110993177064033,iShares MSCI Japan ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Japan,AUD,Japan,,World Other Equity,International Equities - Unhedged,ETF
+2.458024616890583,iShares MSCI Emerging Markets ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging Markets,AUD,Emerging Markets,,Emerging Markets Equity,International Equities - Emerging,ETF
+0.3927519862291031,iShares MSCI EAFE ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Developed EX us,AUD,Developed ex. US,,World ex US Large Blend Equity,International Equities - Unhedged,ETF
+6.872532580027026,iShares Core Composite Bond ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Core Australian Bonds,,Australian Bonds,Australian Fixed Interest,ETF
+2.3248838731771877,iShares Government Inflation ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Inflation Linked Bonds,,Inflation linked Bonds,Inflation Linked Government Bonds,ETF
+0.3440389424097362,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Aggregate Bonds,,Global Bonds ,International Fixed Interest,ETF
+0.8636706957632573,iShares Treasury ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Global Government Bonds,,Australian Bonds,Australian Fixed Interest,ETF
+0.8600162420550653,iShares Core Global Corporate Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global IG Credit,,Diversified Credit,Floating High Yield Credit,ETF
+1.0244583310012125,iShares Global High Yield Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global HY Credit,,Yield Credit Equity,Floating High Yield Credit,ETF
+0.34359901958619543,iShares USD EM Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Emerging Market Debt,,Global Bonds ,International Fixed Interest,ETF
+0.6495000778626931,iShares Enhanced Cash ETF,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Enhanced Cash,,Domestic Cash,Cash,ETF
+2.718232188249079,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,Cash,Cash,Bank Bills,,Domestic Cash,Cash,ETF
+1.9811012643358912,Bank Account,Defensive,Cash,Cash,Cash,ASXStock,Cash,Cash,Bank Account,Cash,Domestic Cash,Cash,Cash
+5.128082085449171,ClearBridge RARE Infrastructure Value Fund (Hedged),Growth,Real Assets,Global Listed Infrastructure,,Active Manager,,,Global Infrastructure - Currency Hedged,,Global Infrastructure - Currency Hedged,Global Listed Infrastructure - hedged,MF
+2.5808400756860452,Australian Ethical Shares fund,Growth,Australian Shares,Australian Shares,,Passive,,,Australian Ethical Equities,,Australia Other Equity,Australian Equities - Ethical,MF
+5.13250287746908,Martin Currie Sustainable Equity Fund,Growth,Australian Shares,Australian Shares,,Active Manager,,,Australian Shares ESG,,Australia Other Equity,Australian Equities,MF
+2.605252895904555,Alphinity Sustainable Share Fund,Growth,Australian Shares,Australian Shares,,Active Manager,,,Australian Shares ESG,,Australia Other Equity,Australian Equities,MF
+4.478181762247948,iShares Core MSCI Australia ESG ETF,Growth,Australian Shares,Australian Shares,,ETF,,,Australian Shares ESG,,Australia Other Equity,Australian Equities,ETF
+8.534632363919217,Vanguard Ethically Conscious International Shares Fund,Growth,International Shares,International Shares,,Passive,,,Global Shares ESG,,World Other Equity,International Equities - Unhedged,MF
+6.331988550615329,Nanuk New World Fund,Growth,International Shares,International Shares,,Active Manager,,,Global Shares ESG / Thematic,,World Other Equity,International Equities - Unhedged,MF
+6.356001733138601,Impax Sustainable Leaders Fund,Growth,International Shares,International Shares,,Active Manager,,,Global Shares ESG,,World Other Equity,International Equities - Unhedged,MF
+23.45136623853866,Pendal Sustainable Australian Fixed Interest ,Defensive,Long Duration,Australian Fixed Interest,,Active Manager,,,Australian Bonds ESG,,Global Bonds ,International Fixed Interest,MF
+3.0108785995540845,PIMCO ESG Global Bond Fund (International),Defensive,Long Duration,Global Fixed Interest,,Active Manager,,,Global Bonds ESG,,Global Bonds ,International Fixed Interest,MF
+2.9790428956577224,Perpetual Ethical SRI Credit Fund (International),Defensive,Long Duration,Global Fixed Interest,,Active Manager,,,Global Credit ESG,,Diversified Credit,International Fixed Interest,MF
