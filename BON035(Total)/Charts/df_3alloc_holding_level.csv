@@ -1,225 +1,225 @@
 Current Weight,Name,G0,G1,G2,G3,G4,G5,G6,G7,G8,PeerGroup,OptimiserCategory,Type
-1.8559630778097376,iShares S&P 500 ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,AUD,US,,World Other Equity,International Equities - Unhedged,ETF
-0.5228746200745773,iShares S&P 500 AUD Hedged ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,USD,US,,World Other Equity,International Equities - Unhedged,ETF
-1.905129575573121,iShares MSCI Emerging Markets ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging Markets,AUD,Emerging Markets,,Emerging Markets Equity,International Equities - Emerging,ETF
-12.59582899770068,iShares Core Composite Bond ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Core Australian Bonds,,Australian Bonds,Australian Fixed Interest,ETF
-3.000048423404456,iShares Government Inflation ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Inflation Linked Bonds,,Inflation linked Bonds,Inflation Linked Government Bonds,ETF
-1.5506412115417154,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Aggregate Bonds,,Global Bonds ,International Fixed Interest,ETF
-1.32051898321443,iShares Treasury ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Global Government Bonds,,Australian Bonds,Australian Fixed Interest,ETF
-1.0486439436575496,iShares Core Global Corporate Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global IG Credit,,Diversified Credit,Floating High Yield Credit,ETF
-1.189669696034546,iShares Global High Yield Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global HY Credit,,Yield Credit Equity,Floating High Yield Credit,ETF
-1.5486584055974175,iShares USD EM Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Emerging Market Debt,,Global Bonds ,International Fixed Interest,ETF
-8.111466324721455,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,Cash,Cash,Bank Bills,,Domestic Cash,Cash,ETF
-1.978406420663769,Bank Account,Defensive,Cash,Cash,Cash,ASXStock,Cash,Cash,Bank Account,Cash,Domestic Cash,Cash,Cash
-0.9717777964472749,GQG Partners Global Equity Fund - A Class,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Quality Bias - Fundamental,,World Large Growth Equity,International Equities - Unhedged,MF
-1.3962795985162515,Fairlight Global Small & Mid Cap Fund (SMID) Class A,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Global SMID,,World Mid Small Equity,International Equities - Small Cap,MF
-13.821437461063669,Western Asset Australian Bond Fund - Class A,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Australian Bonds,,Australian Bonds,Australian Fixed Interest,MF
-1.2727344802803238,Daintree Core Income Trust,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Floating Rate Credit,,Global Bonds ,International Fixed Interest,MF
-1.2871605754047946,Bentham Global Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Diversified Credit,,Global Bonds ,International Fixed Interest,MF
-2.5418836031573138,Ardea Real Outcome Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Floating Government Bonds,,Global Bonds ,International Fixed Interest,MF
-1.5107914959222961,Magellan Wholesale Plus Global Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Blend Equity,,World Large Blend Equity,International Equities - Unhedged,MF
-25.694924322329253,JCB Active Bond Fund,Defensive,Long Duration,Australian Fixed Interest,,Active Manager,,,Australian Bonds,,Australian Bonds,Australian Fixed Interest,MF
-3.513254699653619,ClearBridge RARE Infrastructure Value Fund (Hedged),Growth,Real Assets,Global Listed Infrastructure,,Active Manager,,,Global Infrastructure - Currency Hedged,,Global Infrastructure - Currency Hedged,Global Listed Infrastructure - hedged,MF
-2.5471417939939416,iShares Physical Gold ETF,Growth,Alternatives,Alternatives,Alternatives (Growth),ETF Index,Gold,USD,Alternatives (Growth),,Alternatives - Growth Liquid,Alternatives - Growth Liquid,ETF
-1.0893609204558496,GQG Partners Global Equity,Growth,International Shares,Global Shares,,Active Manager,,,Quality Bias - Fundamental,,World Large Blend Equity,International Equities - Unhedged,MF
-1.071951013315603,iShares Core FTSE Global Infrastructure (AUD Hedged) ETF,Growth,Real Assets,Global Listed Infrastructure,,Passive,,,Global Infrastructure,,Global Infrastructure,Global Unlisted Infrastructure,ETF
-4.653512048828598,Antares Elite Opportunities Fund,Growth,Australian Shares,Australian Shares,,Active Manager,,,Australia Large Core,,Australia Other Equity,Australian Equities,MF
-0.005783759855286668,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,Cash,Cash,Bank Bills,,Domestic Cash,Cash,ETF
-0.006153609784171334,Bank Account,Defensive,Cash,Cash,Cash,ASXStock,Cash,Cash,Bank Account,Cash,Domestic Cash,Cash,Cash
-0.0023223502827203093,Life360 Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0009241388258305345,The A2 Milk Company Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00021287571541890617,Abacus Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.002083292780672938,AGL Energy Limited.,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities - 55,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0006633544848517072,Auckland International Airport Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005187390870854254,Ampol Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.03187187858162046,Aristocrat Leisure Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005530627839522098,ALS Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.009039936484595616,Altium Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0034775982466842565,Atlas Arteria,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005544217414908225,Amcor PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008050793322460464,AMP Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.002072632398179774,Ansell Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.047006090830507254,ANZ Group Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004643867862729116,APA Group,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities - 55,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0022461667271843114,Eagers Automotive Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003266697972810002,ARB Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.001210554975938078,Arena REIT.,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0001641349895667111,Abacus Storage King,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0057068192051893535,ASX Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0030647904118000957,AUB Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008770505536535521,Alumina Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.002982535036904713,Aurizon Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0010059616064427852,Bapcor Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003185030854958198,Bendigo and Adelaide Bank Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0004030947935233641,Bega Cheese Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.002303388252205833,Bellevue Gold Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.18485150918787893,BHP Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0017558822707586879,Brickworks Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.001511998811883983,Boral Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0013357097206913113,Bank of Queensland Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0012243156573621006,Beach Energy Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0034933913349024064,Breville Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0004035388893399979,Brainchip Holdings Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00891323567888668,BlueScope Steel Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008862149311999529,BWP Trust,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.017321912874618206,Brambles Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.019545401148374233,CAR Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.14535786786555135,Commonwealth Bank of Australia,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005487538397228864,Credit Corp Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0010346124163229246,Challenger Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005280264352275331,Charter Hall Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.006566332232251233,Chalice Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.007462864440987091,Champion Iron Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0010494795360002735,Centuria Industrial REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0006610516806054747,Collins Foods Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0012388831542999366,Charter Hall Long Wale REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.009308981434000094,Capricorn Metals Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00018362684142998409,Cromwell Property Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008997684280394689,Centuria Capital Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0025607707708282224,Chorus Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.013204859695831295,Cochlear Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.015988485911021186,Coles Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.010123743035382804,Computershare Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0004391339808383309,Charter Hall Social Infrastructure REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0007358320560709803,Charter Hall Retail REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0003505284452265026,Coronado Global Resources Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.08306641645388357,CSL Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004785619185004516,CSR Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.000641456282829242,Corporate Travel Management Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00468179174739875,Cleanaway Waste Management Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008186506674646818,Core Lithium Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.008239774837797661,De Grey Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005562084180791344,Domain Holdings Australia Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0014026248387369292,Domino's Pizza Enterprises Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0011427305375784835,Downer EDI Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0007831402025548181,Deterra Royalties Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0027359334544171795,Dexus,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0025611920112581813,Endeavour Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005430575730476307,Elders Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0035261604647864636,Evolution Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00042940404625303735,EVT Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.000309569269912203,Fletcher Building Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008497700856195903,Flight Centre Travel Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.17519213849039986,Fortescue Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0034608106270939305,Fisher & Paykel Healthcare Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0598159522586497,Goodman Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0017173206376108025,GrainCorp Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.001996047825526316,Gold Road Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0002544434680674868,Growthpoint Properties Australia,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004004692347969067,GPT Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0007436941967321746,G.U.D. Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0009136459252491482,Homeco Daily Needs REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005580286822216452,Healius Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005758082686310906,HMC Capital Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005886219919888496,HUB24 Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0024533396880698807,Harvey Norman Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.006877305175407642,Insurance Australia Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003964049620262232,Idp Education Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005131301549870509,Insignia Financial Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.006835921535403897,IGO Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0029861330200068236,Iluka Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0004266492714719487,Imugene Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0011509562696297136,Ingenia Communities Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005081583787692299,Inghams Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008630720648174464,IPH Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00258928779593734,Incitec Pivot Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.000564669154621211,IRESS Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.010198882179642169,JB Hi-Fi Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.02886030653158364,James Hardie Industries PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.001433036307671546,Johns Lyng Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0010596926437482156,Karoon Energy Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005648790692700553,Kelsian Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0009961800528929534,Lifestyle Communities Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-5.999612789029415e-05,Lake Resources N.L.,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0015061181468215157,Lendlease Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00010882780704816703,Link Administration Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004674273700715685,Lovisa Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.054898184651510064,Liontown Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.013346027443333231,Lynas Rare Earths Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00036707536318086924,Magellan Financial Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004723029461185577,Mirvac Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.01778310451494381,Mineral Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0006017757919821111,Monadelphous Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0014905906395137627,Megaport Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0070306591199037925,Medibank Private Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.06406336353135805,Macquarie Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0028201432662358005,Metcash Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.06548651662466715,National Australia Bank Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0006028510696686556,Nanosonics Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.001524778700019879,Nine Entertainment Co. Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.011442600465798808,Newmont Corporation,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003448621177982667,New Hope Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0021198972026444164,NIB Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003155705440422256,Nickel Industries Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0019796519292439984,National Storage REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.008635393857734108,Northern Star Resources Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005203074619731236,Nufarm Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0017180907681097265,NRW Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0016706974113182085,Netwealth Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0011215946254709537,News Corporation..,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.009109166612247557,Nextdc Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0013466044175389632,Orora Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.012724441497032599,Origin Energy Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities - 55,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0030741166209004157,Orica Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005825381985471861,Paladin Energy Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.02369875021288299,Pilbara Minerals Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.02396936997732874,Pro Medicus Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0025054119458305466,Premier Investments Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003059457892308228,Pinnacle Investment Management Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0018513149005908642,Polynovo Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008151315213501456,Perpetual Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005635596449533095,Perseus Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0004675631253441913,Pexa Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005245602011620681,Qantas Airways Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.016857451954205755,QBE Insurance Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0038208605847561052,Qube Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.010044174812428176,REA Group Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005009132935150983,Reece Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.001146275199418718,Region Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.002764433087883258,Ramsay Health Care Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.042877418906020585,Rio Tinto Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0072519120212878345,ResMed Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0002045542356098356,Regis Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0019878755434015335,Reliance Worldwide Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.008867102968504606,South32 Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.006734375335398191,Scentre Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005055089110121252,Steadfast Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005267481342162486,Seek Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0023423797881247906,Sandfire Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0013888371175004304,Sims Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.008606792710406172,Stockland,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-3.5557462051555916e-05,The Star Entertainment Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.008815136980560101,Sonic Healthcare Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0008640544421155353,Silver Lake Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0050759547021363,Washington H Soul Pattinson & Company Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0003581953465099682,Spark New Zealand Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005230378194601795,Block Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.01832869581990155,Santos Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003413844127572704,Super Retail Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.012381059074407433,Suncorp Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.006398616193449247,Seven Group Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0006331369001084904,Sayona Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-3.41006877834024e-05,Syrah Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.00013400954503946615,TABCORP Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.021982380492468936,Transurban Group,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004849471046535745,The Lottery Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.033465429676670704,Telstra Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.033517840998278134,Telix Pharmaceuticals Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.007853608313745352,Technology One Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0005907206443029981,TPG Telecom Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003334800648445763,Treasury Wine Estates Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.003185184817650152,Vicinity Centres,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0017810951689613496,Viva Energy Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0013929683303829578,Ventia Services Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0021158217119805135,Virgin Money Uk PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0020440867547073184,West African Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.04424690105536173,Westpac Banking Corporation,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.036371781231701934,Woodside Energy Group Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0010742668819952405,Webjet Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.06214104725324638,Wesfarmers Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.005814721221315842,Whitehaven Coal Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.004649766825296211,Worley Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.027267825680050862,Woolworths Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.0010350198613422576,Waypoint REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.04549978671291898,WiseTech Global Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
-0.02326082385385641,Xero Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+1.906300360907219,iShares S&P 500 ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,AUD,US,,World Other Equity,International Equities - Unhedged,ETF
+0.50981840648922,iShares S&P 500 AUD Hedged ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,US,USD,US,,World Other Equity,International Equities - Unhedged,ETF
+2.001768808492447,iShares MSCI Emerging Markets ETF,Growth,International Shares,Global Shares,Global Shares,ETF Index,Emerging Markets,AUD,Emerging Markets,,Emerging Markets Equity,International Equities - Emerging,ETF
+12.664387182258716,iShares Core Composite Bond ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Core Australian Bonds,,Australian Bonds,Australian Fixed Interest,ETF
+2.993129036480241,iShares Government Inflation ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Inflation Linked Bonds,,Inflation linked Bonds,Inflation Linked Government Bonds,ETF
+1.5378604304027843,iShares Global Aggregate Bond ESG (AUD Hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global Aggregate Bonds,,Global Bonds ,International Fixed Interest,ETF
+1.3257244303783722,iShares Treasury ETF,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,ETF Index,,,Global Government Bonds,,Australian Bonds,Australian Fixed Interest,ETF
+1.0346101085080102,iShares Core Global Corporate Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global IG Credit,,Diversified Credit,Floating High Yield Credit,ETF
+1.192254819286571,iShares Global High Yield Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Global HY Credit,,Yield Credit Equity,Floating High Yield Credit,ETF
+1.522128175857152,iShares USD EM Bond (hedged) ETF,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,ETF Index,,,Emerging Market Debt,,Global Bonds ,International Fixed Interest,ETF
+8.146575008050887,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,Cash,Cash,Bank Bills,,Domestic Cash,Cash,ETF
+1.9869695141587522,Bank Account,Defensive,Cash,Cash,Cash,ASXStock,Cash,Cash,Bank Account,Cash,Domestic Cash,Cash,Cash
+0.9768267496715342,GQG Partners Global Equity Fund - A Class,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Quality Bias - Fundamental,,World Large Growth Equity,International Equities - Unhedged,MF
+1.3956782938604695,Fairlight Global Small & Mid Cap Fund (SMID) Class A,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,Global SMID,,World Mid Small Equity,International Equities - Small Cap,MF
+13.900735782218469,Western Asset Australian Bond Fund - Class A,Defensive,Long Duration,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Australian Bonds,,Australian Bonds,Australian Fixed Interest,MF
+1.2806591267944785,Daintree Core Income Trust,Defensive,Floating Rate,Australian Fixed Interest,Australian Fixed Interest,Active Manager,,,Floating Rate Credit,,Global Bonds ,International Fixed Interest,MF
+1.2934735115154332,Bentham Global Income Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Diversified Credit,,Global Bonds ,International Fixed Interest,MF
+2.5434376100095313,Ardea Real Outcome Fund,Defensive,Floating Rate,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Floating Government Bonds,,Global Bonds ,International Fixed Interest,MF
+1.5548377323327613,Magellan Wholesale Plus Global Fund,Growth,International Shares,Global Shares,Global Shares,Active Manager,,,World Large Blend Equity,,World Large Blend Equity,International Equities - Unhedged,MF
+25.76786953277674,JCB Active Bond Fund,Defensive,Long Duration,Australian Fixed Interest,,Active Manager,,,Australian Bonds,,Australian Bonds,Australian Fixed Interest,MF
+3.3555150403900407,ClearBridge RARE Infrastructure Value Fund (Hedged),Growth,Real Assets,Global Listed Infrastructure,,Active Manager,,,Global Infrastructure - Currency Hedged,,Global Infrastructure - Currency Hedged,Global Listed Infrastructure - hedged,MF
+2.6091322778349,iShares Physical Gold ETF,Growth,Alternatives,Alternatives,Alternatives (Growth),ETF Index,Gold,USD,Alternatives (Growth),,Alternatives - Growth Liquid,Alternatives - Growth Liquid,ETF
+1.0455672313703686,GQG Partners Global Equity,Growth,International Shares,Global Shares,,Active Manager,,,Quality Bias - Fundamental,,World Large Blend Equity,International Equities - Unhedged,MF
+1.0159534680582734,iShares Core FTSE Global Infrastructure (AUD Hedged) ETF,Growth,Real Assets,Global Listed Infrastructure,,Passive,,,Global Infrastructure,,Global Infrastructure,Global Unlisted Infrastructure,ETF
+4.501254349245689,Antares Elite Opportunities Fund,Growth,Australian Shares,Australian Shares,,Active Manager,,,Australia Large Core,,Australia Other Equity,Australian Equities,MF
+0.0060676557400113134,iShares Core Cash ETF,Defensive,Cash,Cash,Cash,ETF Index,Cash,Cash,Bank Bills,,Domestic Cash,Cash,ETF
+0.006455659754716118,Bank Account,Defensive,Cash,Cash,Cash,ASXStock,Cash,Cash,Bank Account,Cash,Domestic Cash,Cash,Cash
+0.002857851002095362,Life360 Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007490854019688621,The A2 Milk Company Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00017566071250535992,Abacus Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0019827905250168715,AGL Energy Limited.,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities - 55,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007982600038125505,Auckland International Airport Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004676480794762334,Ampol Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.03512581966935146,Aristocrat Leisure Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.005454271803236155,ALS Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00787134960708024,Altium Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0032947267534262133,Atlas Arteria,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0052332332347946155,Amcor PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0010816854311761995,AMP Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002092513731942222,Ansell Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.047038973400742756,ANZ Group Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004563435104020864,APA Group,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities - 55,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002375220795983439,Eagers Automotive Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0030273590463458025,ARB Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0010673792452530065,Arena REIT.,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00015068848475827942,Abacus Storage King,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.005789153348970563,ASX Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.003300877851502501,AUB Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0008259664533223982,Alumina Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0028070666960536756,Aurizon Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0008754635922817241,Bapcor Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.003754099912234936,Bendigo and Adelaide Bank Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0004522224201929577,Bega Cheese Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001834937689858831,Bellevue Gold Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.15751870979176452,BHP Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00168645691453339,Brickworks Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00154486838827649,Boral Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0014763022310014776,Bank of Queensland Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0010578656176322568,Beach Energy Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0036332693440545107,Breville Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006693888903964248,Brainchip Holdings Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.007257147421016588,BlueScope Steel Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0008273818876434022,BWP Trust,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.01758810542860236,Brambles Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.01695403949641366,CAR Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.18033493769808717,Commonwealth Bank of Australia,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.000498357811578209,Credit Corp Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0012304496810766068,Challenger Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0045066909786931515,Charter Hall Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.005473718377048815,Chalice Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00537937399964428,Champion Iron Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0009565814188320312,Centuria Industrial REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005718113670858799,Collins Foods Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0011902749120854589,Charter Hall Long Wale REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.011231299288915976,Capricorn Metals Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00015354141693513747,Cromwell Property Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007939818548797984,Centuria Capital Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002558640674803479,Chorus Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.01238808116457481,Cochlear Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.01679492817003927,Coles Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.013232803779599052,Computershare Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00040602689703535494,Charter Hall Social Infrastructure REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006967146585627465,Charter Hall Retail REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0002317370672758551,Coronado Global Resources Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.08190387589873792,CSL Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004709642930668873,CSR Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.000629521464082248,Corporate Travel Management Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0040013698918231625,Cleanaway Waste Management Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005722815878956743,Core Lithium Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.012448421838436835,De Grey Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0004155861310607988,Domain Holdings Australia Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0011053754941474977,Domino's Pizza Enterprises Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0010586461866996517,Downer EDI Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007765980093582912,Deterra Royalties Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002519499601207714,Dexus,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0022893372964867056,Endeavour Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005573974048330043,Elders Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0037310003648647868,Evolution Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00047700153152777157,EVT Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0002835564749288278,Fletcher Building Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006749731789927314,Flight Centre Travel Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.1286798166959268,Fortescue Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004022241570143032,Fisher & Paykel Healthcare Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.05578785911920509,Goodman Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0014156282180271295,GrainCorp Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002211403808968982,Gold Road Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00023576858073788212,Growthpoint Properties Australia,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.003475724538109452,GPT Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0008339941893181126,G.U.D. Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0008766606237105517,Homeco Daily Needs REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0004313985220054188,Healius Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006930760704680199,HMC Capital Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.006121660769188599,HUB24 Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0023394707857341108,Harvey Norman Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.008021180872432273,Insurance Australia Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0029768551996434407,Idp Education Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007188800168303429,Insignia Financial Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.005154137868501284,IGO Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001973916692350486,Iluka Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00034366400375232417,Imugene Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0010469538942962035,Ingenia Communities Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005047436954118078,Inghams Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007885196840784436,IPH Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00271392068394023,Incitec Pivot Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005107709241037294,IRESS Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.011381340185010694,JB Hi-Fi Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.026881440773153863,James Hardie Industries PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0016090885507618106,Johns Lyng Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0009301460165322817,Karoon Energy Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005309264752961135,Kelsian Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0010031345888347574,Lifestyle Communities Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+8.777101935475033e-05,Lake Resources N.L.,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00127238625093367,Lendlease Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00010671276819420293,Link Administration Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0033569591110509185,Lovisa Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.04600753405926791,Liontown Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.01065800365867811,Lynas Rare Earths Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00035763184094553333,Magellan Financial Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.003964071294679194,Mirvac Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.011637737554332948,Mineral Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006371560828634668,Monadelphous Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001514928425538016,Megaport Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.007346378235608328,Medibank Private Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.06267309692069281,Macquarie Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0024418681641747335,Metcash Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.07157423547638087,National Australia Bank Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0004429771916501243,Nanosonics Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0014290722879648293,Nine Entertainment Co. Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.009168132373244677,Newmont Corporation,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002891051554295522,New Hope Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001964849849873863,NIB Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002299669737561496,Nickel Industries Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0019086276438786266,National Storage REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.009701789324498845,Northern Star Resources Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.000471929813392989,Nufarm Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001565560942985915,NRW Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0020861840169149005,Netwealth Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0013342410986212044,News Corporation..,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.006945021036785271,Nextdc Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0012814563353406808,Orora Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.012939961894328582,Origin Energy Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Utilities - 55,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002944553612993734,Orica Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0039468226663158515,Paladin Energy Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.01928614035171091,Pilbara Minerals Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.03352101979561047,Pro Medicus Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0028472921540372573,Premier Investments Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0036790549806668127,Pinnacle Investment Management Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001433000731919795,Polynovo Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0007987449700868733,Perpetual Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0060075137032649505,Perseus Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00044559498633790274,Pexa Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.007346880978503664,Qantas Airways Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.019286086601186803,QBE Insurance Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.003815506010553667,Qube Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.010978080963658179,REA Group Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004091586833364494,Reece Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0011355377784481408,Region Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002376431082587445,Ramsay Health Care Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.03755615231795227,Rio Tinto Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.009430916319964946,ResMed Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0002547858387360207,Regis Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0016514066977907393,Reliance Worldwide Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.007954477634470108,South32 Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.006638842884991943,Scentre Group,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.005564705188843191,Steadfast Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004802402080245102,Seek Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0018676820149685525,Sandfire Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0012896094682556044,Sims Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.007615442452417054,Stockland,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+2.6460238208028153e-05,The Star Entertainment Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00871490317822461,Sonic Healthcare Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0009428542354912987,Silver Lake Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004973878507149369,Washington H Soul Pattinson & Company Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0003595953876619329,Spark New Zealand Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0008006355480548314,Block Inc.,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.015033972438837232,Santos Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.002717358107019158,Super Retail Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.012987833453421437,Suncorp Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.006148086803302857,Seven Group Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006105383824132663,Sayona Mining Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+2.428782001205324e-05,Syrah Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.00015349672024895147,TABCORP Holdings Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.022908067917691958,Transurban Group,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004976835192622566,The Lottery Corporation Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.03375909654528638,Telstra Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.03797892841116761,Telix Pharmaceuticals Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Health Care - 35,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.009157817187920912,Technology One Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0005554281136789399,TPG Telecom Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Communication Services - 50,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0030465753190411517,Treasury Wine Estates Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0029965469884305645,Vicinity Centres,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.001585588460322002,Viva Energy Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0011593250490705813,Ventia Services Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0021547084672986706,Virgin Money Uk PLC,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0019192656688757866,West African Resources Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Materials - 15,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.05176911765763265,Westpac Banking Corporation,Growth,Australian Shares,Australian Shares,Australian Shares,Financials - 40,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.03263208843976734,Woodside Energy Group Ltd,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0006516832998618014,Webjet Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.06734677407554408,Wesfarmers Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Discretionary - 25,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.004623719489685825,Whitehaven Coal Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Energy - 10,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.003717235782778811,Worley Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Industrials - 20,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.02627972649248405,Woolworths Group Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Consumer Staples - 30,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0009990356529029265,Waypoint REIT,Growth,Australian Shares,Australian Shares,Australian Shares,Real Estate - 60,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.0357060847234174,WiseTech Global Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock
+0.026490412093756743,Xero Limited,Growth,Australian Shares,Australian Shares,Australian Shares,Information Technology - 45,ASX,AUD,Australia,,Australia Large Blend Equity,Australian Equities,ASXStock

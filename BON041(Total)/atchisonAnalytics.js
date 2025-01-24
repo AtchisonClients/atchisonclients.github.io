@@ -29,7 +29,7 @@
                 break;
             case '0-summary':
                 content = `
-                    <h2>Summary Dashboard for Bongiornos Total ESG Moderate Portfolio as at 30 November 2024</h2>
+                    <h2>Summary Dashboard for Bongiornos Total ESG Moderate Portfolio as at 31 December 2024</h2>
                     <h4>Portfolio Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-RelTable_v3.html" height="370px" width="600px"></iframe>
@@ -55,46 +55,51 @@
                     <h4>Heatmap 1 Year</h4>
                     <iframe src="./Charts/6_Sleeve_Treemap1_1Yr.html" height="900px" width="600px"></iframe>
                     
-
+                    <h4>Correlation Analysis</h4>
+                    <iframe src="./Charts/6_Sleeve_MonthlyCorrel.html" height="820px" width="950px"></iframe>
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The Bongiornos Total ESG Moderate Portfolio delivered 1.7% for the month, and 1.7% over the quarter. </p>
-                    <p>Over the last 12 months, the Bongiornos Total ESG Moderate Portfolio delivered 11.0%, significantly beating Inflation by 8.1%. 
+                    <p>The Bongiornos Total ESG Moderate Portfolio delivered 0.2% for the month, and 1.1% over the quarter. </p>
+                    <p>Over the last 12 months, the Bongiornos Total ESG Moderate Portfolio delivered 8.4%, significantly beating Inflation by 5.5%. 
                     Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total ESG Moderate Portfolio has materially outperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the Bongiornos Total ESG Moderate Portfolio has delivered 5.1%, marginally beating Inflation by 0.1%. 
+                    <p>Since inception of the strategy, the Bongiornos Total ESG Moderate Portfolio has delivered 5.1%, marginally beating Inflation by 0.3%. 
                     Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total ESG Moderate Portfolio has significantly outperformed since inception of the strategy. </p>
+                    <h4>Key Contributors, Detractors & Attribution</h4>
                     
+                    <p></p><p></p><p></p><p></p>
+                                                           
                 `;
                 break;
             case '1-performance':
                 content = `
                     <h1>Bongiornos Total ESG Moderate Portfolio</h1>
-                    <h4>Updated to: 30 November 2024</h2>
-                    <h4>Inception:  28 January 2022</h2>
+                    <h4>Updated to: 31 December 2024</h2>
+                    <h4>Inception:  30 November 2018</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The Bongiornos Total ESG Moderate Portfolio delivered 1.7% for the month, and 1.7% over the quarter. </p>
-                    <p>Over the last 12 months, the Bongiornos Total ESG Moderate Portfolio delivered 11.0%, significantly beating Inflation by 8.1%. 
+                    <p>The Bongiornos Total ESG Moderate Portfolio delivered 0.2% for the month, and 1.1% over the quarter. </p>
+                    <p>Over the last 12 months, the Bongiornos Total ESG Moderate Portfolio delivered 8.4%, significantly beating Inflation by 5.5%. 
                     Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total ESG Moderate Portfolio has materially outperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the Bongiornos Total ESG Moderate Portfolio has delivered 5.1%, marginally beating Inflation by 0.1%. 
+                    <p>Since inception of the strategy, the Bongiornos Total ESG Moderate Portfolio has delivered 5.1%, marginally beating Inflation by 0.3%. 
                     Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total ESG Moderate Portfolio has significantly outperformed since inception of the strategy. </p>
                     
-                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 28 January 2022. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
+                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 30 November 2018. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
                     <h4>Returns vs Benchmarks</h4>
-                    <iframe src="./Charts/1_Performance-Daily.html" height="420px" width="950px"></iframe>
-                    <iframe src="./Charts/1_Performance-Table.html" height="200px" width="950px"></iframe>
+                    <iframe src="./Charts/1_Performance-Main_v2.html" height="420px" width="950px"></iframe>
+                    <iframe src="./Charts/1_Performance-RelTable_v3.html" height="200px" width="950px"></iframe>
+                    
                     <div class="page-break"></div>
                     <h4>Performance of $100,000 Investment</h4>
                     <iframe src="./Charts/1_Performance-Cum.html" height="370px" width="950px"></iframe>
@@ -410,13 +415,13 @@
         <br>
         <h3>Risk Analysis</h3>
         <ul>
-            <li>Volatility is a historical statistical measure of a dispersion of returns of a managed portfolio or benchmark.  A higher volatility means that a managed portfolioï¿½s value can move dramatically over a shorter period-of-time, in either direction i.e. up or down. A lower volatility means that a managed portfolioï¿½s value does not fluctuate dramatically, and returns tend to be steadier</li>
-            <li>Max Drawdown is a historical measure of a managed portfolioï¿½s maximum loss in a peak-to-trough decline before a new peak is attained. It is an indicator of downside risk over a specified time of period.</li>
-            <li>Sharpe Ratio is a measure of a managed portfolioï¿½s risk-adjusted returns. Calculated by dividing a portfolioï¿½s excess returns (being above an industry benchmark e.g. risk-free asset such as cash return) by its volatility to assess risk- adjusted performance. Higher the Sharpe Ratio the better a portfolioï¿½s historical risk-adjusted performance.</li>
-            <li>Calmar Ratio is a measure a portfolioï¿½s investment efficiency on a risk-adjusted basis. It is calculated by dividing the investmentï¿½s annual return (typically over three years) by its maximum drawdown, reflecting performance versus potential losses. The lower the Calmar Ratio, the worse the performance of the portfolio, the higher the Calmar ratio, the better the performance, relative to the risk taken</li>
+            <li>Volatility is a historical statistical measure of a dispersion of returns of a managed portfolio or benchmark.  A higher volatility means that a managed portfolio’s value can move dramatically over a shorter period-of-time, in either direction i.e. up or down. A lower volatility means that a managed portfolio’s value does not fluctuate dramatically, and returns tend to be steadier</li>
+            <li>Max Drawdown is a historical measure of a managed portfolio’s maximum loss in a peak-to-trough decline before a new peak is attained. It is an indicator of downside risk over a specified time of period.</li>
+            <li>Sharpe Ratio is a measure of a managed portfolio’s risk-adjusted returns. Calculated by dividing a portfolio’s excess returns (being above an industry benchmark e.g. risk-free asset such as cash return) by its volatility to assess risk- adjusted performance. Higher the Sharpe Ratio the better a portfolio’s historical risk-adjusted performance.</li>
+            <li>Calmar Ratio is a measure a portfolio’s investment efficiency on a risk-adjusted basis. It is calculated by dividing the investment’s annual return (typically over three years) by its maximum drawdown, reflecting performance versus potential losses. The lower the Calmar Ratio, the worse the performance of the portfolio, the higher the Calmar ratio, the better the performance, relative to the risk taken</li>
             <li>Information Ratio quantifies the excess managed portfolio returns over the returns of the market benchmark, relative to the volatility of the returns. An Information Ratio of 0.4 or above is considered good, 0.70 or above is very good, and 1.0 or higher is exceptional.</li>
             <li>Tracking Error is a measure of how closely a portfolio follows an index to which it is benchmarked. The risk, relative to the benchmark, is the tracking error.  A benchmark unaware approach will tend to have a high Tracking Error, and high volatility and inconsistency in portfolio returns exceeding the index.  A low tracking can have the opposite effect on a portfolio</li>
-            <li>Batting Average is a measure of a portfolio managerï¿½s ability to consistently beat the market benchmark. A portfolio manager who meets or outperforms the benchmark every month over a given period would have a batting average of 100.</li>
+            <li>Batting Average is a measure of a portfolio manager’s ability to consistently beat the market benchmark. A portfolio manager who meets or outperforms the benchmark every month over a given period would have a batting average of 100.</li>
             <li>Inflation Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to inflation, inflation and returns are negatively correlated</li>
             <li>ASX Market Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to ASX, Australian share market and total portfolio returns are positively correlated.</li>
             <li>US Market Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to US market, US share market and total portfolio returns are positively correlated. </li>    
@@ -496,7 +501,7 @@
       <th>2</th>
       <td>Real Assets</td>
       <td>BM_RealAssets</td>
-      <td>20% AMI Property - Australia Direct + 25% Vanguard Global Infrastructure Index ETF + 30% BlackRock iShares Global Listed Property Index + 25% Vanguard Global Infrastructure Index ETF</td>
+      <td>20% AMI Property - Australia Direct + 25% iShares Australian Listed Property ETF + 30% BlackRock iShares Global Listed Property Index (hedged) + 25% Vanguard Global Infrastructure Index ETF</td>
     </tr>
     <tr>
       <th>3</th>
@@ -533,8 +538,6 @@
         <p>Warning: Please be advised that past performance is not indicative of future performance. The returns discussed herein are based on model asset allocations and are for illustrative purposes only. Actual returns may differ due to variations in fees, timing of model change implementation, and the need to substitute individual holdings where reliable data was not available from our data providers. Any insights or recommendations provided in this document are intended for general advice purposes only and are based on our opinion of the investment merits of the financial products discussed, independent of the financial circumstances of any individual. Before proceeding with any investment based on the information provided, recipients must assess its suitability to their financial situation and consider seeking advice from an independent financial advisor.</p> 
         <p>Disclaimer: While care is taken to ensure the accuracy and completeness of the information presented herein, no warranties or representations are made as to its reliability. The content provided is derived from publicly available sources, or external data providers, which have not been independently verified by Atchison Consultants. Atchison Consultants, along with its directors, officers, employees, and agents, expressly disclaims any liability for errors, inaccuracies, or omissions in this document, as well as for any loss or damage that may arise from reliance on its contents. Readers are cautioned to verify all information independently before taking any actions based on this report.</p>
         <br>
-        <br>
-        <div class="page-break"></div>
     
                 `;
                 break;            

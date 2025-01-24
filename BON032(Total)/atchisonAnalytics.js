@@ -29,7 +29,7 @@
                 break;
             case '0-summary':
                 content = `
-                    <h2>Summary Dashboard for Bongiornos Total Diversified Balanced Portfolio as at 30 November 2024</h2>
+                    <h2>Summary Dashboard for Bongiornos Total Diversified Balanced Portfolio as at 31 December 2024</h2>
                     <h4>Portfolio Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-RelTable_v3.html" height="370px" width="600px"></iframe>
@@ -60,48 +60,52 @@
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The Bongiornos Total Diversified Balanced Portfolio delivered 2.2% for the month, and 2.9% over the quarter. </p>
-                    <p>Over the last 12 months, the Bongiornos Total Diversified Balanced Portfolio delivered 13.8%, significantly beating Inflation by 10.9%. 
-                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has marginally outperformed over the last 12 months. </p>
+                    <p>The Bongiornos Total Diversified Balanced Portfolio delivered -0.4% for the month, and 1.4% over the quarter. </p>
+                    <p>Over the last 12 months, the Bongiornos Total Diversified Balanced Portfolio delivered 10.2%, significantly beating Inflation by 7.4%. 
+                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has materially outperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the Bongiornos Total Diversified Balanced Portfolio has delivered 6.0%, significantly beating Inflation by 2.4%. 
-                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has marginally underperformed since inception of the strategy. </p>
-                    
+                    <p>Since inception of the strategy, the Bongiornos Total Diversified Balanced Portfolio has delivered 5.8%, significantly beating Inflation by 2.3%. 
+                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has marginally outperformed since inception of the strategy. </p>
+                    <h4>Key Contributors, Detractors & Attribution</h4>
+                    <ul><li>On a weighted basis, the asset class that contributed to the most to the portfolio return was International Shares at (+17.02%)</li><li>The asset class that contributed the least to portfolio return was Alternatives at (+0.53%)</li><li>The asset class with the highest absolute return was International Shares (+63.78%)</li><li>Whilst the asset class with the lowest absolute return was Long Duration (+7.27%)</li><li>Attribution analysis relative to SAA shows Tactical Allocation Effect having the highest impact on value add at (+3.81%).</li><li>Whereas, Manager Effect (net fees) was found to have a (-9.89%) impact on relative performance of the portfolio.</li></ul>
+                    <p></p><p></p><p></p><p></p>
+                                                           
                 `;
                 break;
             case '1-performance':
                 content = `
                     <h1>Bongiornos Total Diversified Balanced Portfolio</h1>
-                    <h4>Updated to: 30 November 2024</h2>
+                    <h4>Updated to: 31 December 2024</h2>
                     <h4>Inception:  30 November 2018</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The Bongiornos Total Diversified Balanced Portfolio delivered 2.2% for the month, and 2.9% over the quarter. </p>
-                    <p>Over the last 12 months, the Bongiornos Total Diversified Balanced Portfolio delivered 13.8%, significantly beating Inflation by 10.9%. 
-                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has marginally outperformed over the last 12 months. </p>
+                    <p>The Bongiornos Total Diversified Balanced Portfolio delivered -0.4% for the month, and 1.4% over the quarter. </p>
+                    <p>Over the last 12 months, the Bongiornos Total Diversified Balanced Portfolio delivered 10.2%, significantly beating Inflation by 7.4%. 
+                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has materially outperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the Bongiornos Total Diversified Balanced Portfolio has delivered 6.0%, significantly beating Inflation by 2.4%. 
-                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has marginally underperformed since inception of the strategy. </p>
+                    <p>Since inception of the strategy, the Bongiornos Total Diversified Balanced Portfolio has delivered 5.8%, significantly beating Inflation by 2.3%. 
+                    Relative to the Peer Group (FE AMI Peer Average), Bongiornos Total Diversified Balanced Portfolio has marginally outperformed since inception of the strategy. </p>
                     
                     <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 30 November 2018. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
                     <h4>Returns vs Benchmarks</h4>
-                    <iframe src="./Charts/1_Performance-Daily.html" height="420px" width="950px"></iframe>
-                    <iframe src="./Charts/1_Performance-Table.html" height="200px" width="950px"></iframe>
+                    <iframe src="./Charts/1_Performance-Main_v2.html" height="420px" width="950px"></iframe>
+                    <iframe src="./Charts/1_Performance-RelTable_v3.html" height="200px" width="950px"></iframe>
+                    
                     <div class="page-break"></div>
                     <h4>Performance of $100,000 Investment</h4>
                     <iframe src="./Charts/1_Performance-Cum.html" height="370px" width="950px"></iframe>
                     <br>
                     <h2>KEY CONTRIBUTORS, DETRACTORS & ATTRIBUTION</h2>
-                    
+                    <ul><li>On a weighted basis, the asset class that contributed to the most to the portfolio return was International Shares at (+17.02%)</li><li>The asset class that contributed the least to portfolio return was Alternatives at (+0.53%)</li><li>The asset class with the highest absolute return was International Shares (+63.78%)</li><li>Whilst the asset class with the lowest absolute return was Long Duration (+7.27%)</li><li>Attribution analysis relative to SAA shows Tactical Allocation Effect having the highest impact on value add at (+3.81%).</li><li>Whereas, Manager Effect (net fees) was found to have a (-9.89%) impact on relative performance of the portfolio.</li></ul>
                     <p></p><p></p><p></p><p></p>
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
@@ -497,7 +501,7 @@
       <th>2</th>
       <td>Real Assets</td>
       <td>BM_RealAssets</td>
-      <td>20% AMI Property - Australia Direct + 25% Vanguard Global Infrastructure Index ETF + 30% BlackRock iShares Global Listed Property Index + 25% Vanguard Global Infrastructure Index ETF</td>
+      <td>20% AMI Property - Australia Direct + 25% iShares Australian Listed Property ETF + 30% BlackRock iShares Global Listed Property Index (hedged) + 25% Vanguard Global Infrastructure Index ETF</td>
     </tr>
     <tr>
       <th>3</th>
@@ -534,8 +538,6 @@
         <p>Warning: Please be advised that past performance is not indicative of future performance. The returns discussed herein are based on model asset allocations and are for illustrative purposes only. Actual returns may differ due to variations in fees, timing of model change implementation, and the need to substitute individual holdings where reliable data was not available from our data providers. Any insights or recommendations provided in this document are intended for general advice purposes only and are based on our opinion of the investment merits of the financial products discussed, independent of the financial circumstances of any individual. Before proceeding with any investment based on the information provided, recipients must assess its suitability to their financial situation and consider seeking advice from an independent financial advisor.</p> 
         <p>Disclaimer: While care is taken to ensure the accuracy and completeness of the information presented herein, no warranties or representations are made as to its reliability. The content provided is derived from publicly available sources, or external data providers, which have not been independently verified by Atchison Consultants. Atchison Consultants, along with its directors, officers, employees, and agents, expressly disclaims any liability for errors, inaccuracies, or omissions in this document, as well as for any loss or damage that may arise from reliance on its contents. Readers are cautioned to verify all information independently before taking any actions based on this report.</p>
         <br>
-        <br>
-        <div class="page-break"></div>
     
                 `;
                 break;            
