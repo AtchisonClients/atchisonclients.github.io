@@ -29,26 +29,25 @@
                 break;
             case '0-summary':
                 content = `
-                    <h2>Summary Dashboard for PMP Wealth Long Duration Model as at 31 December 2024</h2>
+                    <h2>Summary Dashboard for PMP Wealth Long Duration Model as at 31 March 2025</h2>
                     <h4>Portfolio Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-RelTable_v3.html" height="370px" width="600px"></iframe>
                         <iframe src="./Charts/1_Performance-Main_v2.html" height="370px" width="600px"></iframe>
-                    </div>
-                    
+                    </div> 
+                   
                     <h4>Sector Sleeve Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-SleeveTable_v1.html" height="600px" width="600px"></iframe>
                         <iframe src="./Charts/6_Performance-Sleeve_v2.html" height="600px" width="600px"></iframe>
-                    </div>
-                    
+                    </div> 
+     
                     <h4>Exposure Summary</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/3_Alloc_Mgr_Level_2.html" height="600px" width="600px"></iframe>
                         <iframe src="./Charts/3_Allocation_History.html" height="600px" width="600px"></iframe>
                     </div>
-                    
-                    
+                   
                     <h4>Heatmap 3 Months</h4>
                     <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="900px" width="600px"></iframe>
                     
@@ -60,32 +59,30 @@
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The PMP Wealth Long Duration Model delivered -0.4% for the month, and -1.4% over the quarter. </p>
-                    <p>Over the last 12 months, the PMP Wealth Long Duration Model delivered 1.5%,  returned below Inflation by 1.4%. 
-                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Long Duration Model has materially underperformed over the last 12 months. </p>
+                    <p>The PMP Wealth Long Duration Model delivered 0.3% for the month, and 2.1% over the quarter. </p>
+                    <p>Over the last 12 months, the PMP Wealth Long Duration Model delivered 3.5%,  beating Inflation by 1.3%. 
+                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Long Duration Model has marginally underperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the PMP Wealth Long Duration Model has delivered 0.8%, significantly returned below Inflation by 2.7%. 
-                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Long Duration Model has  underperformed since inception of the strategy. </p>
+                    
+                    
                     <h4>Key Contributors, Detractors & Attribution</h4>
-                    <ul><li>On a weighted basis, the largest holding contributor to the portfolio outcome has been Vanguard Australian Fixed Interest Index Fund</li><li>The holding that contributed the least to portfolio return was Colchester Global Government Bond Fund Class I</li><li>The current holding with the highest absolute return has been PIMCO Global Bond Fund ï¿½ Wholesale Class<li>Whilst the current holding with the lowest absolute return has been Colchester Global Government Bond Fund Class I</li></ul>
+                    <ul><li>On a weighted basis, the largest holding contributor to the portfolio outcome has been PIMCO Global Bond Fund — Wholesale Class</li><li>The holding that contributed the least to portfolio return was Colchester Global Government Bond Fund Class I</li><li>The current holding with the highest absolute return has been PIMCO Global Bond Fund — Wholesale Class<li>Whilst the current holding with the lowest absolute return has been Colchester Global Government Bond Fund Class I</li></ul>
                     <p></p><p>Colchester, established in 1999, is a value-oriented fixed income manager which mainly invests in developed market investment grade bonds, that generate income. Colchester does not invest in corporate bonds or derivatives. Conviction in this strategy occurs during rising interest and cash rates, that tend to have a detrimental impact on the value of long dated government bonds.</p><p></p><p></p>
                     
-        <h2>MARKET OVERVIEW - December 2024</h2>
+        <h2>MARKET OVERVIEW - March 2025</h2>
         <ul>
-            <li>Australia's S&P/ASX 200 Index (ASX: XJO) fell 3% in December, marking its worst monthly performance of the year. Real estate -6%, materials -5%, information technology -4% and financials -4% all weighed on the index. </li>
-            <li>The Momentum Factor was the top performer, returning 20% for the year. This, along with the outperformance of larger companies, contributed to a 4% underperformance in the Equal Weight index relative to the market-cap-weighted index. The High Dividend Factor also lagged.</li>
-            <li>Australian equity volatility remained relatively subdued compared to historical levels and global peers. The S&P/ASX 200 VIX (ASX: XJO VIX) closed the year up 11%, compared to the VIX (CBOE: VIX) at 17%.</li>
-            <li>Despite a pullback in December, U.S. equity markets had an extraordinary year in 2024, marked by 57 all-time closing highs. The S&P 500 Index (NYSE: SPX) ended the year up 25%, marking its strongest two-year performance since 1998. The S&P 500 Top 50 Index (NYSE: SPX50) performed even better, rising 34%, fuelled by the strength of mega-cap stocks, solid economic growth, and optimism surrounding AI.</li>
-            <li>While mid and small-cap stocks benefitted from the broader market rally, which was further amplified by the Presidential election results, fewer-than-expected Federal Reserve rate cuts led to their underperformance, with mid-caps and small-caps gaining 14% and 9% respectively - underperforming their large-cap counterparts.</li>
-            <li>Most large-cap sectors posted gains in 2024, with Communication Services, Information Technology, and Financials leading the way, all up more than 30%. </li>
-            <li>The FTSE100 finished down -1% for the month and up 5% for the year, with large growth stocks driving gains, whilst small-caps lagged. Novo Nordisk has been a drag over the last 12 months, down -9% - a noteworthy decline given Eli Lilly is up 34% over the same time period. </li>
-            <li>Both the CSI300 and Nikkei 225 finished in positive territory over 12 months, up 15% and 17% respectively. However, over the month the CSI300 is down 5% due to slowing economic growth, weak consumer spending, global trade tensions. </li>
-            <li>Bonds posted positive returns across the board in 2024, driven by moderating inflation and tightening spreads. The Reserve Bank of Australia (RBA) maintained a hawkish stance, limiting the return of the S&P/ASX Australian Fixed Interest 0+ Index (ASX: FIX) to 3%.</li>
-            <li>In 2024, credit markets performed well, particularly high-yield bonds, as the gap (or spread) between US bond yields and lower-rated bonds became historically narrow. This benefited high-yield bonds significantly, with the iBoxx USD Liquid High Yield Index outperforming the Investment Grade Index by 6%.</li>
-            <li>Commodity performance was mixed, with cocoa topping the commodity rally for the second year in a row up +170%, whilst iron ore continues to struggle following a strong US dollar and weak Chinese demand down -25%. Gold was another strong performer over 12 months up 30%, bolstered by its safe-haven demand. </li>            
+            <li>Australian share market took a lead from the US share market and dropped -3.3% in March on fears of a global trade war and intensifying fears of recession. Recent events highlight the challenges our economy faces, namely our reliance on exports to China. Australia sends around 35% of its iron ore to China.</li>
+            <li>The Trump administration scheduled to announce at the beginning of April a raft of new reciprocal tariffs on trading partners worldwide. The size and extent of those tariffs remained unknown, and that kind of uncertainty did zero to boost investor sentiment.</li>
+            <li>Markets interpreted the expected new tariffs as the catalyst to crimp global economic growth and potentially reignite inflation, leading to fewer than originally expected interest rate cuts over CY 2025.</li>
+            <li>More recent views (post March 2025) are that after the dust settles, effective tariffs on US imports could settle around 15% next year, compared to figures currently pushed out by the Trump administration, 15% doesn't seem that high, but still the highest in almost a century.</li>
+            <li>Global market fell -5.0% in the month March led by the US S&P 500 Index down -6.2%. The tech-heavy NASDAQ benchmark was down -8.2% for the month. European markets fared slightly better, benefiting from ongoing rotation from investors seeking alternatives to the US. The STOXX Europe 600 benchmark was down -3.7%.</li>
+            <li>The Reserve Bank of Australia (RBA) has previously noted that the enduring strength in employment was a potential roadblock to further rate cuts. In the US, the Federal Reserve maintained rates at the current level with minimal changes to the dot-plot projections. The US dollar continued to weaken against major currencies.</li>
+            <li>The monthly CPI indicator rose +2.4% in the 12 months to February. Largest contributors to the annual movement were Food and non-alcoholic beverages (+3.1%), Alcohol and tobacco (+6.7%), and Housing (+1.8%).</li>
+            <li>Bond yields rose slightly in March, the Australian 10-year bond rate was up 13 bps to 4.42% bps. Whilst US 10-year bond edged up 1 bps to 4.21% but was higher mid-month.</li> 
+            <li>Gold continued to hit record highs with the yellow metal topping US$3000 for the first time and closing about US$3100.</li>   
         </ul>
         <br>
                                                               
@@ -94,34 +91,34 @@
             case '1-performance':
                 content = `
                     <h1>PMP Wealth Long Duration Model</h1>
-                    <h4>Updated to: 31 December 2024</h2>
+                    <h4>Updated to: 31 March 2025</h2>
                     <h4>Inception:  31 December 2022</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The PMP Wealth Long Duration Model delivered -0.4% for the month, and -1.4% over the quarter. </p>
-                    <p>Over the last 12 months, the PMP Wealth Long Duration Model delivered 1.5%,  returned below Inflation by 1.4%. 
-                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Long Duration Model has materially underperformed over the last 12 months. </p>
+                    <p>The PMP Wealth Long Duration Model delivered 0.3% for the month, and 2.1% over the quarter. </p>
+                    <p>Over the last 12 months, the PMP Wealth Long Duration Model delivered 3.5%,  beating Inflation by 1.3%. 
+                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Long Duration Model has marginally underperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the PMP Wealth Long Duration Model has delivered 0.8%, significantly returned below Inflation by 2.7%. 
-                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Long Duration Model has  underperformed since inception of the strategy. </p>
+                    
+                    
                     
                     <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 31 December 2022. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
                     <h4>Returns vs Benchmarks</h4>
                     <iframe src="./Charts/1_Performance-Main_v2.html" height="420px" width="950px"></iframe>
-                    <iframe src="./Charts/1_Performance-RelTable_v3.html" height="200px" width="950px"></iframe>
+                    <iframe src="./Charts/1_Performance-RelTable_v3.html" height="250px" width="950px"></iframe>
                     
                     <div class="page-break"></div>
                     <h4>Performance of $100,000 Investment</h4>
                     <iframe src="./Charts/1_Performance-Cum.html" height="370px" width="950px"></iframe>
                     <br>
                     <h2>KEY CONTRIBUTORS, DETRACTORS & ATTRIBUTION</h2>
-                    <ul><li>On a weighted basis, the largest holding contributor to the portfolio outcome has been Vanguard Australian Fixed Interest Index Fund</li><li>The holding that contributed the least to portfolio return was Colchester Global Government Bond Fund Class I</li><li>The current holding with the highest absolute return has been PIMCO Global Bond Fund ï¿½ Wholesale Class<li>Whilst the current holding with the lowest absolute return has been Colchester Global Government Bond Fund Class I</li></ul>
+                    <ul><li>On a weighted basis, the largest holding contributor to the portfolio outcome has been PIMCO Global Bond Fund — Wholesale Class</li><li>The holding that contributed the least to portfolio return was Colchester Global Government Bond Fund Class I</li><li>The current holding with the highest absolute return has been PIMCO Global Bond Fund — Wholesale Class<li>Whilst the current holding with the lowest absolute return has been Colchester Global Government Bond Fund Class I</li></ul>
                     <p></p><p>Colchester, established in 1999, is a value-oriented fixed income manager which mainly invests in developed market investment grade bonds, that generate income. Colchester does not invest in corporate bonds or derivatives. Conviction in this strategy occurs during rising interest and cash rates, that tend to have a detrimental impact on the value of long dated government bonds.</p><p></p><p></p>
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
@@ -426,13 +423,13 @@
         <br>
         <h3>Risk Analysis</h3>
         <ul>
-            <li>Volatility is a historical statistical measure of a dispersion of returns of a managed portfolio or benchmark.  A higher volatility means that a managed portfolioï¿½s value can move dramatically over a shorter period-of-time, in either direction i.e. up or down. A lower volatility means that a managed portfolioï¿½s value does not fluctuate dramatically, and returns tend to be steadier</li>
-            <li>Max Drawdown is a historical measure of a managed portfolioï¿½s maximum loss in a peak-to-trough decline before a new peak is attained. It is an indicator of downside risk over a specified time of period.</li>
-            <li>Sharpe Ratio is a measure of a managed portfolioï¿½s risk-adjusted returns. Calculated by dividing a portfolioï¿½s excess returns (being above an industry benchmark e.g. risk-free asset such as cash return) by its volatility to assess risk- adjusted performance. Higher the Sharpe Ratio the better a portfolioï¿½s historical risk-adjusted performance.</li>
-            <li>Calmar Ratio is a measure a portfolioï¿½s investment efficiency on a risk-adjusted basis. It is calculated by dividing the investmentï¿½s annual return (typically over three years) by its maximum drawdown, reflecting performance versus potential losses. The lower the Calmar Ratio, the worse the performance of the portfolio, the higher the Calmar ratio, the better the performance, relative to the risk taken</li>
+            <li>Volatility is a historical statistical measure of a dispersion of returns of a managed portfolio or benchmark.  A higher volatility means that a managed portfolio\'s value can move dramatically over a shorter period-of-time, in either direction i.e. up or down. A lower volatility means that a managed portfolio\'s value does not fluctuate dramatically, and returns tend to be steadier</li>
+            <li>Max Drawdown is a historical measure of a managed portfolio\'s maximum loss in a peak-to-trough decline before a new peak is attained. It is an indicator of downside risk over a specified time of period.</li>
+            <li>Sharpe Ratio is a measure of a managed portfolio\'s risk-adjusted returns. Calculated by dividing a portfolio's excess returns (being above an industry benchmark e.g. risk-free asset such as cash return) by its volatility to assess risk- adjusted performance. Higher the Sharpe Ratio the better a portfolio's historical risk-adjusted performance.</li>
+            <li>Calmar Ratio is a measure a portfolio\'s investment efficiency on a risk-adjusted basis. It is calculated by dividing the investment\'s annual return (typically over three years) by its maximum drawdown, reflecting performance versus potential losses. The lower the Calmar Ratio, the worse the performance of the portfolio, the higher the Calmar ratio, the better the performance, relative to the risk taken</li>
             <li>Information Ratio quantifies the excess managed portfolio returns over the returns of the market benchmark, relative to the volatility of the returns. An Information Ratio of 0.4 or above is considered good, 0.70 or above is very good, and 1.0 or higher is exceptional.</li>
             <li>Tracking Error is a measure of how closely a portfolio follows an index to which it is benchmarked. The risk, relative to the benchmark, is the tracking error.  A benchmark unaware approach will tend to have a high Tracking Error, and high volatility and inconsistency in portfolio returns exceeding the index.  A low tracking can have the opposite effect on a portfolio</li>
-            <li>Batting Average is a measure of a portfolio managerï¿½s ability to consistently beat the market benchmark. A portfolio manager who meets or outperforms the benchmark every month over a given period would have a batting average of 100.</li>
+            <li>Batting Average is a measure of a portfolio manager\'s ability to consistently beat the market benchmark. A portfolio manager who meets or outperforms the benchmark every month over a given period would have a batting average of 100.</li>
             <li>Inflation Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to inflation, inflation and returns are negatively correlated</li>
             <li>ASX Market Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to ASX, Australian share market and total portfolio returns are positively correlated.</li>
             <li>US Market Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to US market, US share market and total portfolio returns are positively correlated. </li>    
@@ -505,7 +502,7 @@
     <tr>
       <th>0</th>
       <td>Australian Shares</td>
-      <td>IOZ-AU</td>
+      <td>BM_AusShares</td>
       <td>100% iShares Core S&amp;P/ASX 200 ETF</td>
     </tr>
     <tr>
@@ -523,7 +520,7 @@
     <tr>
       <th>3</th>
       <td>Alternatives</td>
-      <td>BILL-AU</td>
+      <td>BM_Alts</td>
       <td>100% iShares Core Cash ETF</td>
     </tr>
     <tr>
@@ -535,13 +532,13 @@
     <tr>
       <th>5</th>
       <td>Floating Rate</td>
-      <td>FLOT-AU</td>
+      <td>BM_Floating</td>
       <td>100% VanEck Australian Floating Rate ETF</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Cash</td>
-      <td>BILL-AU</td>
+      <td>BM_Cash</td>
       <td>100% iShares Core Cash ETF</td>
     </tr>
   </tbody>
