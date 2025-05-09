@@ -29,26 +29,25 @@
                 break;
             case '0-summary':
                 content = `
-                    <h2>Summary Dashboard for Euree Balanced Portfolio as at 31 December 2024</h2>
+                    <h2>Summary Dashboard for Euree Balanced Portfolio as at 30 April 2025</h2>
                     <h4>Portfolio Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-RelTable_v3.html" height="370px" width="600px"></iframe>
                         <iframe src="./Charts/1_Performance-Main_v2.html" height="370px" width="600px"></iframe>
-                    </div>
-                    
+                    </div> 
+                   
                     <h4>Sector Sleeve Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-SleeveTable_v1.html" height="600px" width="600px"></iframe>
                         <iframe src="./Charts/6_Performance-Sleeve_v2.html" height="600px" width="600px"></iframe>
-                    </div>
-                    
+                    </div> 
+     
                     <h4>Exposure Summary</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/3_Alloc_Mgr_Level_2.html" height="600px" width="600px"></iframe>
                         <iframe src="./Charts/3_Allocation_History.html" height="600px" width="600px"></iframe>
                     </div>
-                    
-                    
+                   
                     <h4>Heatmap 3 Months</h4>
                     <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="900px" width="600px"></iframe>
                     
@@ -60,32 +59,31 @@
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The Euree Balanced Portfolio delivered -0.3% for the month, and 1.5% over the quarter. </p>
-                    <p>Over the last 12 months, the Euree Balanced Portfolio delivered 11.6%, significantly beating Inflation by 8.8%. 
+                    <p>The Euree Balanced Portfolio delivered 1.0% for the month, and -0.8% over the quarter. </p>
+                    <p>Over the last 12 months, the Euree Balanced Portfolio delivered 9.3%, significantly beating Inflation by 7.4%. 
                     Relative to the Peer Group (FE AMI Peer Average), Euree Balanced Portfolio has materially outperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the Euree Balanced Portfolio has delivered 11.9%, significantly beating Inflation by 8.8%. 
-                    Relative to the Peer Group (FE AMI Peer Average), Euree Balanced Portfolio has  outperformed since inception of the strategy. </p>
+                    
+                    
                     <h4>Key Contributors, Detractors & Attribution</h4>
-                    <ul><li>On a weighted basis, the asset class that contributed to the most to the portfolio return was International Shares at (+5.93%)</li><li>The asset class that contributed the least to portfolio return was Floating Rate at (+0.87%)</li><li>The asset class with the highest absolute return was International Shares (+28.45%)</li><li>Whilst the asset class with the lowest absolute return was Cash (+6.29%)</li><li>Attribution analysis relative to SAA shows Manager Effect (net fees) having the highest impact on value add at (+0.47%).</li><li>Whereas, Tactical Allocation Effect was found to have a (-0.07%) impact on relative performance of the portfolio.</li></ul>
+                    <ul><li>On a weighted basis, the asset class that contributed the most to the portfolio return was International Shares at (+5.07%)</li><li>The asset class that contributed the least to portfolio return was Cash at (+0.94%)</li><li>The asset class with the highest absolute return was Alternatives (+40.73%)</li><li>Whilst the asset class with the lowest absolute return was Cash (+7.84%)</li><li>Attribution analysis relative to SAA shows Manager Effect (net fees) having the highest impact on value add at (+0.77%).</li><li>Whereas, Tactical Allocation Effect was found to have a (-0.05%) impact on relative performance of the portfolio.</li></ul>
                     <p></p><p></p><p></p><p></p>
                     
-        <h2>MARKET OVERVIEW - December 2024</h2>
+        <h2>MARKET OVERVIEW - April 2025</h2>
         <ul>
-            <li>Australia's S&P/ASX 200 Index (ASX: XJO) fell 3% in December, marking its worst monthly performance of the year. Real estate -6%, materials -5%, information technology -4% and financials -4% all weighed on the index. </li>
-            <li>The Momentum Factor was the top performer, returning 20% for the year. This, along with the outperformance of larger companies, contributed to a 4% underperformance in the Equal Weight index relative to the market-cap-weighted index. The High Dividend Factor also lagged.</li>
-            <li>Australian equity volatility remained relatively subdued compared to historical levels and global peers. The S&P/ASX 200 VIX (ASX: XJO VIX) closed the year up 11%, compared to the VIX (CBOE: VIX) at 17%.</li>
-            <li>Despite a pullback in December, U.S. equity markets had an extraordinary year in 2024, marked by 57 all-time closing highs. The S&P 500 Index (NYSE: SPX) ended the year up 25%, marking its strongest two-year performance since 1998. The S&P 500 Top 50 Index (NYSE: SPX50) performed even better, rising 34%, fuelled by the strength of mega-cap stocks, solid economic growth, and optimism surrounding AI.</li>
-            <li>While mid and small-cap stocks benefitted from the broader market rally, which was further amplified by the Presidential election results, fewer-than-expected Federal Reserve rate cuts led to their underperformance, with mid-caps and small-caps gaining 14% and 9% respectively - underperforming their large-cap counterparts.</li>
-            <li>Most large-cap sectors posted gains in 2024, with Communication Services, Information Technology, and Financials leading the way, all up more than 30%. </li>
-            <li>The FTSE100 finished down -1% for the month and up 5% for the year, with large growth stocks driving gains, whilst small-caps lagged. Novo Nordisk has been a drag over the last 12 months, down -9% - a noteworthy decline given Eli Lilly is up 34% over the same time period. </li>
-            <li>Both the CSI300 and Nikkei 225 finished in positive territory over 12 months, up 15% and 17% respectively. However, over the month the CSI300 is down 5% due to slowing economic growth, weak consumer spending, global trade tensions. </li>
-            <li>Bonds posted positive returns across the board in 2024, driven by moderating inflation and tightening spreads. The Reserve Bank of Australia (RBA) maintained a hawkish stance, limiting the return of the S&P/ASX Australian Fixed Interest 0+ Index (ASX: FIX) to 3%.</li>
-            <li>In 2024, credit markets performed well, particularly high-yield bonds, as the gap (or spread) between US bond yields and lower-rated bonds became historically narrow. This benefited high-yield bonds significantly, with the iBoxx USD Liquid High Yield Index outperforming the Investment Grade Index by 6%.</li>
-            <li>Commodity performance was mixed, with cocoa topping the commodity rally for the second year in a row up +170%, whilst iron ore continues to struggle following a strong US dollar and weak Chinese demand down -25%. Gold was another strong performer over 12 months up 30%, bolstered by its safe-haven demand. </li>            
+            <li>Australian share market recorded its first monthly gain since January returning 3.6% for the month of April and 9.8% for the 12 months. The Australia market followed the lead from the US share market on news of trade deals.</li>
+            <li>Australia copped a 10% US tariff on our exports, however only 5% of Australian exports go to the US. The bigger threat to Australian exports comes from reduced exports to China and Asia.</li>
+            <li>10 out of 11 sectors in the S&P/ASX 200 posted gains, led by Communication Services, Information Technology and Consumer Discretionary, each rising by 6%. Energy was the only sector to report a loss.</li>
+            <li>China's manufacturing sector contracted in April, with the official PMI falling to 49.0, its lowest since December 2023, due to escalating U.S. tariffs and weakening export demand.</li>
+            <li>Trump placed eye-watering 145% tariff on China but for most other nations a 90-day pause on reciprocal tariffs, leaving a 10% universal tariff in place.</li>
+            <li>Global share markets plunged at the beginning of the month on worries about a full-blown trade war, The Trump Dump initially caused US shares to fall 17%, 16% globally and 10% in Australia. While gold surged to new highs.</li>
+            <li>The Federal Open Market Committee (FOMC) left the Federal Funds Rate unchanged at the range of 4.25 - 4.50% at the March meeting and projected two rate cuts later this year.</li>
+            <li>The RBA left interest rates on hold at 4.10%, but is expected to engage in another rate cut of 0.25% in May. Australia's headline inflation (total inflation) remained steady in Q1 2025 at 2.4% annually, within the target band of 2 - 3%. </li>
+            <li>Most fixed income indices advanced as rates declined on weaker economic growth expectations. The Australian Government 0+ index was among the best performers, rising by 2% for the month, with the index's yield falling to 4%.</li>
+            <li>Gold maintained its winning streak in 2025, reaching historic peak of US$3,500 per ounce before experiencing volatility. A significant driver behind's gold's stellar performance has been the substantial decline in the US dollar.</li>  
         </ul>
         <br>
                                                               
@@ -94,34 +92,34 @@
             case '1-performance':
                 content = `
                     <h1>Euree Balanced Portfolio</h1>
-                    <h4>Updated to: 31 December 2024</h2>
-                    <h4>Inception:  21 August 2023</h2>
+                    <h4>Updated to: 30 April 2025</h2>
+                    <h4>Inception:  31 December 2022</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The Euree Balanced Portfolio delivered -0.3% for the month, and 1.5% over the quarter. </p>
-                    <p>Over the last 12 months, the Euree Balanced Portfolio delivered 11.6%, significantly beating Inflation by 8.8%. 
+                    <p>The Euree Balanced Portfolio delivered 1.0% for the month, and -0.8% over the quarter. </p>
+                    <p>Over the last 12 months, the Euree Balanced Portfolio delivered 9.3%, significantly beating Inflation by 7.4%. 
                     Relative to the Peer Group (FE AMI Peer Average), Euree Balanced Portfolio has materially outperformed over the last 12 months. </p>
                     
                     
                     
                     
-                    <p>Since inception of the strategy, the Euree Balanced Portfolio has delivered 11.9%, significantly beating Inflation by 8.8%. 
-                    Relative to the Peer Group (FE AMI Peer Average), Euree Balanced Portfolio has  outperformed since inception of the strategy. </p>
                     
-                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 21 August 2023. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
+                    
+                    
+                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 31 December 2022. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
                     <h4>Returns vs Benchmarks</h4>
                     <iframe src="./Charts/1_Performance-Main_v2.html" height="420px" width="950px"></iframe>
-                    <iframe src="./Charts/1_Performance-RelTable_v3.html" height="200px" width="950px"></iframe>
+                    <iframe src="./Charts/1_Performance-RelTable_v3.html" height="250px" width="950px"></iframe>
                     
                     <div class="page-break"></div>
                     <h4>Performance of $100,000 Investment</h4>
                     <iframe src="./Charts/1_Performance-Cum.html" height="370px" width="950px"></iframe>
                     <br>
                     <h2>KEY CONTRIBUTORS, DETRACTORS & ATTRIBUTION</h2>
-                    <ul><li>On a weighted basis, the asset class that contributed to the most to the portfolio return was International Shares at (+5.93%)</li><li>The asset class that contributed the least to portfolio return was Floating Rate at (+0.87%)</li><li>The asset class with the highest absolute return was International Shares (+28.45%)</li><li>Whilst the asset class with the lowest absolute return was Cash (+6.29%)</li><li>Attribution analysis relative to SAA shows Manager Effect (net fees) having the highest impact on value add at (+0.47%).</li><li>Whereas, Tactical Allocation Effect was found to have a (-0.07%) impact on relative performance of the portfolio.</li></ul>
+                    <ul><li>On a weighted basis, the asset class that contributed the most to the portfolio return was International Shares at (+5.07%)</li><li>The asset class that contributed the least to portfolio return was Cash at (+0.94%)</li><li>The asset class with the highest absolute return was Alternatives (+40.73%)</li><li>Whilst the asset class with the lowest absolute return was Cash (+7.84%)</li><li>Attribution analysis relative to SAA shows Manager Effect (net fees) having the highest impact on value add at (+0.77%).</li><li>Whereas, Tactical Allocation Effect was found to have a (-0.05%) impact on relative performance of the portfolio.</li></ul>
                     <p></p><p></p><p></p><p></p>
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
@@ -185,7 +183,14 @@
                     <h4>Historical Asset Class Overweight / Underweight vs TAA</h4>
                     <iframe src="./Charts/3_Allocation_Rel_History.html" height="580px" width="950px"></iframe>
                     
-
+                    <h4>Detailed Current Holding Overweight / Underweight vs TAA</h4>
+                    <iframe src="./Charts/3_Holding_OWUW.html" height="580px" width="950px"></iframe>
+                    
+                    
+                    
+                    
+                    
+                    
                     
                     <h4>Historical Holding Level Weights</h4>
                     <iframe src="./Charts/3_Allocation_DH_FloatHistory.html" height="580px" width="950px"></iframe>
@@ -419,13 +424,13 @@
         <br>
         <h3>Risk Analysis</h3>
         <ul>
-            <li>Volatility is a historical statistical measure of a dispersion of returns of a managed portfolio or benchmark.  A higher volatility means that a managed portfolio�s value can move dramatically over a shorter period-of-time, in either direction i.e. up or down. A lower volatility means that a managed portfolio�s value does not fluctuate dramatically, and returns tend to be steadier</li>
-            <li>Max Drawdown is a historical measure of a managed portfolio�s maximum loss in a peak-to-trough decline before a new peak is attained. It is an indicator of downside risk over a specified time of period.</li>
-            <li>Sharpe Ratio is a measure of a managed portfolio�s risk-adjusted returns. Calculated by dividing a portfolio�s excess returns (being above an industry benchmark e.g. risk-free asset such as cash return) by its volatility to assess risk- adjusted performance. Higher the Sharpe Ratio the better a portfolio�s historical risk-adjusted performance.</li>
-            <li>Calmar Ratio is a measure a portfolio�s investment efficiency on a risk-adjusted basis. It is calculated by dividing the investment�s annual return (typically over three years) by its maximum drawdown, reflecting performance versus potential losses. The lower the Calmar Ratio, the worse the performance of the portfolio, the higher the Calmar ratio, the better the performance, relative to the risk taken</li>
+            <li>Volatility is a historical statistical measure of a dispersion of returns of a managed portfolio or benchmark.  A higher volatility means that a managed portfolio\'s value can move dramatically over a shorter period-of-time, in either direction i.e. up or down. A lower volatility means that a managed portfolio\'s value does not fluctuate dramatically, and returns tend to be steadier</li>
+            <li>Max Drawdown is a historical measure of a managed portfolio\'s maximum loss in a peak-to-trough decline before a new peak is attained. It is an indicator of downside risk over a specified time of period.</li>
+            <li>Sharpe Ratio is a measure of a managed portfolio\'s risk-adjusted returns. Calculated by dividing a portfolio's excess returns (being above an industry benchmark e.g. risk-free asset such as cash return) by its volatility to assess risk- adjusted performance. Higher the Sharpe Ratio the better a portfolio's historical risk-adjusted performance.</li>
+            <li>Calmar Ratio is a measure a portfolio\'s investment efficiency on a risk-adjusted basis. It is calculated by dividing the investment\'s annual return (typically over three years) by its maximum drawdown, reflecting performance versus potential losses. The lower the Calmar Ratio, the worse the performance of the portfolio, the higher the Calmar ratio, the better the performance, relative to the risk taken</li>
             <li>Information Ratio quantifies the excess managed portfolio returns over the returns of the market benchmark, relative to the volatility of the returns. An Information Ratio of 0.4 or above is considered good, 0.70 or above is very good, and 1.0 or higher is exceptional.</li>
             <li>Tracking Error is a measure of how closely a portfolio follows an index to which it is benchmarked. The risk, relative to the benchmark, is the tracking error.  A benchmark unaware approach will tend to have a high Tracking Error, and high volatility and inconsistency in portfolio returns exceeding the index.  A low tracking can have the opposite effect on a portfolio</li>
-            <li>Batting Average is a measure of a portfolio manager�s ability to consistently beat the market benchmark. A portfolio manager who meets or outperforms the benchmark every month over a given period would have a batting average of 100.</li>
+            <li>Batting Average is a measure of a portfolio manager\'s ability to consistently beat the market benchmark. A portfolio manager who meets or outperforms the benchmark every month over a given period would have a batting average of 100.</li>
             <li>Inflation Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to inflation, inflation and returns are negatively correlated</li>
             <li>ASX Market Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to ASX, Australian share market and total portfolio returns are positively correlated.</li>
             <li>US Market Sensitivity (Monthly Returns) measures the sensitivity of the total portfolio monthly returns to US market, US share market and total portfolio returns are positively correlated. </li>    
@@ -498,7 +503,7 @@
     <tr>
       <th>0</th>
       <td>Australian Shares</td>
-      <td>IOZ-AU</td>
+      <td>BM_AusShares</td>
       <td>100% iShares Core S&amp;P/ASX 200 ETF</td>
     </tr>
     <tr>
@@ -516,7 +521,7 @@
     <tr>
       <th>3</th>
       <td>Alternatives</td>
-      <td>BILL-AU</td>
+      <td>BM_Alts</td>
       <td>100% iShares Core Cash ETF</td>
     </tr>
     <tr>
@@ -528,13 +533,13 @@
     <tr>
       <th>5</th>
       <td>Floating Rate</td>
-      <td>FLOT-AU</td>
+      <td>BM_Floating</td>
       <td>100% VanEck Australian Floating Rate ETF</td>
     </tr>
     <tr>
       <th>6</th>
       <td>Cash</td>
-      <td>BILL-AU</td>
+      <td>BM_Cash</td>
       <td>100% iShares Core Cash ETF</td>
     </tr>
   </tbody>
