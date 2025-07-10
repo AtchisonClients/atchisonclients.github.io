@@ -1,4 +1,4 @@
-Current Weight,Name,G0,G1,G2,G3,G4,G5,G6,G7,G8,PeerGroup,OptimiserCategory,Type
-29.261898534201762,Colchester Global Government Bond Fund Class I,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global DM & EM Bonds ,,Global Bonds ,International Fixed Interest,MF
-31.037019759423668,PIMCO Global Bond Fund — Wholesale Class,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,,Global Bonds ,International Fixed Interest,MF
-39.701081706374566,Vanguard Australian Fixed Interest Index Fund,Defensive,Long Duration,Australian Fixed Interest,,Passive,,,Australian Bonds,,Australian Bonds,Australian Fixed Interest,MF
+Current Weight,Name,G0,G1,G2,G3,G4,G5,G6,G7,G8,G11,PeerGroup,OptimiserCategory,Type
+29.25950490109229,Colchester Global Government Bond Fund Class I,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global DM & EM Bonds ,,Long Duration,Global Bonds ,International Fixed Interest,MF
+30.656444338178467,PIMCO Global Bond Fund — Wholesale Class,Defensive,Long Duration,Global Fixed Interest,Global Fixed Interest,Active Manager,,,Global Bonds ,,Long Duration,Global Bonds ,International Fixed Interest,MF
+40.084050760729255,Vanguard Australian Fixed Interest Index Fund,Defensive,Long Duration,Australian Fixed Interest,,Passive,,,Australian Bonds,,Long Duration,Australian Bonds,Australian Fixed Interest,MF
