@@ -29,7 +29,7 @@
                 break;
             case '0-summary':
                 content = `
-                    <h2>Summary Dashboard for Rajomon Growth Fund as at 30 June 2025</h2>
+                    <h2>Summary Dashboard for Rajomon Growth Fund as at 31 July 2025</h2>
                     <h4>Portfolio Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-RelTable_v3.html" height="370px" width="600px"></iframe>
@@ -59,8 +59,8 @@
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The Rajomon Growth Fund delivered 1.4% for the month, and 4.6% over the quarter. </p>
-                    <p>Over the last 12 months, the Rajomon Growth Fund delivered 10.2%, significantly beating Inflation by 8.1%. 
+                    <p>The Rajomon Growth Fund delivered 1.8% for the month, and 6.8% over the quarter. </p>
+                    <p>Over the last 12 months, the Rajomon Growth Fund delivered 8.4%, significantly beating Inflation by 6.5%. 
                     Relative to the Peer Group (FE AMI Peer Average), Rajomon Growth Fund has marginally underperformed over the last 12 months. </p>
                     
                     
@@ -69,7 +69,7 @@
                     
                     
                     <h4>Key Contributors, Detractors & Attribution</h4>
-                    
+                    <ul><li>On a weighted basis, the asset class that contributed the most to the portfolio return was International Shares at (+9.62%)</li><li>The asset class that contributed the least to portfolio return was Long Duration at (+0.29%)</li><li>The asset class with the highest absolute return was Alternatives (+44.42%)</li><li>Whilst the asset class with the lowest absolute return was Floating Rate (+6.70%)</li><li>Attribution analysis relative to SAA shows Manager Effect (net fees) having the highest impact on value add at (+0.36%).</li><li>Whereas, Tactical Allocation Effect was found to have a (-1.23%) impact on relative performance of the portfolio.</li></ul>
                     <p></p><p></p><p></p><p></p>
                     
         <h2>MARKET OVERVIEW - June 2025</h2>
@@ -93,15 +93,15 @@
             case '1-performance':
                 content = `
                     <h1>Rajomon Growth Fund</h1>
-                    <h4>Updated to: 30 June 2025</h2>
+                    <h4>Updated to: 31 July 2025</h2>
                     <h4>Inception:  30 September 2023</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The Rajomon Growth Fund delivered 1.4% for the month, and 4.6% over the quarter. </p>
-                    <p>Over the last 12 months, the Rajomon Growth Fund delivered 10.2%, significantly beating Inflation by 8.1%. 
+                    <p>The Rajomon Growth Fund delivered 1.8% for the month, and 6.8% over the quarter. </p>
+                    <p>Over the last 12 months, the Rajomon Growth Fund delivered 8.4%, significantly beating Inflation by 6.5%. 
                     Relative to the Peer Group (FE AMI Peer Average), Rajomon Growth Fund has marginally underperformed over the last 12 months. </p>
                     
                     
@@ -120,7 +120,7 @@
                     <iframe src="./Charts/1_Performance-Cum.html" height="370px" width="950px"></iframe>
                     <br>
                     <h2>KEY CONTRIBUTORS, DETRACTORS & ATTRIBUTION</h2>
-                    
+                    <ul><li>On a weighted basis, the asset class that contributed the most to the portfolio return was International Shares at (+9.62%)</li><li>The asset class that contributed the least to portfolio return was Long Duration at (+0.29%)</li><li>The asset class with the highest absolute return was Alternatives (+44.42%)</li><li>Whilst the asset class with the lowest absolute return was Floating Rate (+6.70%)</li><li>Attribution analysis relative to SAA shows Manager Effect (net fees) having the highest impact on value add at (+0.36%).</li><li>Whereas, Tactical Allocation Effect was found to have a (-1.23%) impact on relative performance of the portfolio.</li></ul>
                     <p></p><p></p><p></p><p></p>
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
