@@ -44,7 +44,7 @@
      
                     <h4>Exposure Summary</h4>
                     <div class="iframe-container">
-                        <iframe src="./Charts/3_Alloc_Mgr_Level_2.html" height="600px" width="600px"></iframe>
+                        <iframe src="./Charts/3_Alloc_Mgr_Level_2_small.html" height="720px" width="600px"></iframe>
                         <iframe src="./Charts/3_Allocation_History.html" height="600px" width="600px"></iframe>
                     </div>
                    
@@ -59,7 +59,7 @@
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The Murray Irrigation Reserve delivered 1.3% for the month, and 4.4% over the quarter. </p>
+                    <p>The Murray Irrigation Reserve delivered 1.4% for the month, and 4.4% over the quarter. </p>
                     <p>Over the last 12 months, the Murray Irrigation Reserve delivered 11.6%, significantly beating Inflation by 9.7%. 
                     Relative to the Peer Group (FE AMI Peer Average), Murray Irrigation Reserve has materially outperformed over the last 12 months. </p>
                     
@@ -100,7 +100,7 @@
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The Murray Irrigation Reserve delivered 1.3% for the month, and 4.4% over the quarter. </p>
+                    <p>The Murray Irrigation Reserve delivered 1.4% for the month, and 4.4% over the quarter. </p>
                     <p>Over the last 12 months, the Murray Irrigation Reserve delivered 11.6%, significantly beating Inflation by 9.7%. 
                     Relative to the Peer Group (FE AMI Peer Average), Murray Irrigation Reserve has materially outperformed over the last 12 months. </p>
                     
