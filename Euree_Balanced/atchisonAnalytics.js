@@ -94,7 +94,7 @@
                 content = `
                     <h1>Euree Balanced Portfolio</h1>
                     <h4>Updated to: 31 August 2025</h2>
-                    <h4>Inception:  20 August 2023</h2>
+                    <h4>Inception:  21 August 2023</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
@@ -110,7 +110,7 @@
                     
                     
                     
-                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 20 August 2023. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
+                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 21 August 2023. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
                     <h4>Returns vs Benchmarks</h4>
                     <iframe src="./Charts/1_Performance-Main_v2.html" height="420px" width="950px"></iframe>
                     <iframe src="./Charts/1_Performance-RelTable_v3.html" height="250px" width="950px"></iframe>
@@ -125,8 +125,8 @@
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
                     <div class="page-break"></div>
-                    <h4>Portfolio Performance Heatmap - Latest Month</h4>
-                    <iframe src="./Charts/6_Sleeve_Treemap1_1Mth.html" height="1020px" width="950px"></iframe>
+                    <h4>Portfolio Performance Heatmap - Latest 3 Months</h4>
+                    <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="1020px" width="950px"></iframe>
                     <br>
                     <h2>LATEST INTRA-MONTH UPDATE</h2>
                     <iframe src="./Charts/1_Performance-Latest.html" height="370px" width="950px"></iframe>
@@ -312,11 +312,7 @@
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br> 
-                    
-                    <div class="page-break"></div>
-                    <h4>Portfolio Performance Heatmap - Latest Month</h4>
-                    <iframe src="./Charts/6_Sleeve_Treemap1_1Mth.html" height="1020px" width="950px"></iframe>
-
+                                        
                     <div class="page-break"></div>
                     <h4>Portfolio Performance Heatmap - Latest Quarter</h4>
                     <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="1020px" width="950px"></iframe>
