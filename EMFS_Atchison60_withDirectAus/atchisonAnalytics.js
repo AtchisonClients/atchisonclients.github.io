@@ -152,17 +152,14 @@
                     <br>      
                     <h4>Drawdown Periods & Recovery</h4>
                     <iframe src="./Charts/2_Drawdown.html" height="370px" width="950px"></iframe>
-                    <h4>Rolling 3yr Calmar Ratio - Return over Drawdown Risk </h4>
-                    <p>The below Calmar Ratio explains the return achieved relative to the drawdown risk taken. A higher Calmar Ratio indicates a more favorable risk-adjusted return for the investment</p>
-                    <iframe src="./Charts/2_Calmar3yr.html" height="370px" width="950px"></iframe>
+
                     <h4>Rolling 3yr Tracking Error - Level of Relative Risk Being Taken</h4>
                     <iframe src="./Charts/2_TE3yr.html" height="370px" width="950px"></iframe>
                     <h4>Rolling 3yr Batting Average - % of Months Outperforming Benchmark Return</h4>
                     <iframe src="./Charts/2_Batting3yr.html" height="370px" width="950px"></iframe>
                     <h4>90 Day Volatility</h4>
                     <iframe src="./Charts/2_Vol90.html" height="370px" width="950px"></iframe>
-                    <h4>1 Year Volatility</h4>
-                    <iframe src="./Charts/2_Vol1yr.html" height="370px" width="950px"></iframe>
+
                     
                 `;
                 break;
