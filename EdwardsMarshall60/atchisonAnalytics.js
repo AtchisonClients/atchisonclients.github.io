@@ -125,8 +125,8 @@
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
                     <div class="page-break"></div>
-                    <h4>Portfolio Performance Heatmap - Latest Month</h4>
-                    <iframe src="./Charts/6_Sleeve_Treemap1_1Mth.html" height="1020px" width="950px"></iframe>
+                    <h4>Portfolio Performance Heatmap - Latest 3 Months</h4>
+                    <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="1020px" width="950px"></iframe>
                     <br>
                     <h2>LATEST INTRA-MONTH UPDATE</h2>
                     <iframe src="./Charts/1_Performance-Latest.html" height="370px" width="950px"></iframe>
@@ -312,11 +312,7 @@
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br> 
-                    
-                    <div class="page-break"></div>
-                    <h4>Portfolio Performance Heatmap - Latest Month</h4>
-                    <iframe src="./Charts/6_Sleeve_Treemap1_1Mth.html" height="1020px" width="950px"></iframe>
-
+                                        
                     <div class="page-break"></div>
                     <h4>Portfolio Performance Heatmap - Latest Quarter</h4>
                     <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="1020px" width="950px"></iframe>
