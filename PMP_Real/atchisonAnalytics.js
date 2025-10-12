@@ -29,7 +29,7 @@
                 break;
             case '0-summary':
                 content = `
-                    <h2>Summary Dashboard for PMP Wealth Real Assets Model as at 30 June 2025</h2>
+                    <h2>Summary Dashboard for PMP Wealth Real Assets Model as at 30 September 2025</h2>
                     <h4>Portfolio Performance</h4>
                     <div class="iframe-container">
                         <iframe src="./Charts/1_Performance-RelTable_v3.html" height="370px" width="600px"></iframe>
@@ -44,7 +44,7 @@
      
                     <h4>Exposure Summary</h4>
                     <div class="iframe-container">
-                        <iframe src="./Charts/3_Alloc_Mgr_Level_2.html" height="600px" width="600px"></iframe>
+                        <iframe src="./Charts/3_Alloc_Mgr_Level_2_small.html" height="720px" width="600px"></iframe>
                         <iframe src="./Charts/3_Allocation_History.html" height="600px" width="600px"></iframe>
                     </div>
                    
@@ -59,9 +59,9 @@
                 
                     <br>    
                     <h4>Performance Comments</h4>                
-                    <p>The PMP Wealth Real Assets Model delivered 0.4% for the month, and 5.7% over the quarter. </p>
-                    <p>Over the last 12 months, the PMP Wealth Real Assets Model delivered 13.9%, significantly beating Inflation by 11.8%. 
-                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Real Assets Model has significantly outperformed over the last 12 months. </p>
+                    <p>The PMP Wealth Real Assets Model delivered -1.4% for the month, and 3.4% over the quarter. </p>
+                    <p>Over the last 12 months, the PMP Wealth Real Assets Model delivered 4.0%,  beating Inflation by 2.0%. 
+                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Real Assets Model has materially outperformed over the last 12 months. </p>
                     
                     
                     
@@ -72,19 +72,20 @@
                     <ul><li>On a weighted basis, the largest holding contributor to the portfolio outcome has been Vanguard Australian Property Securities Index Fund</li><li>The holding that contributed the least to portfolio return was ClearBridge RARE Infrastructure Income Fund - Hedged</li><li>The current holding with the highest absolute return has been Vanguard Australian Property Securities Index Fund<li>Whilst the current holding with the lowest absolute return has been ClearBridge RARE Infrastructure Income Fund - Hedged</li></ul>
                     <p></p><p>Clearbridge RARE Infrastructure, founded in 2006, offers investors a long-term reliable earnings stream, which is relatively resilient to changing economic conditions and is largely protected from inflation (based on income indexed to inflation). As such, the asset class typically displays less volatility than broader equities with a lower correlation to other asset classes over the medium to long term. </p><p></p><p></p>
                     
-        <h2>MARKET OVERVIEW - June 2025</h2>
+        <h2>MARKET OVERVIEW - September 2025</h2>
         <ul>
-            <li>The Australian share market rose for the third consecutive month rising a modest +1.1% for the month but a stellar +16% since April and +10.2% for the 12 months to June 2025, after a +7.8% rise one year earlier and +9.6% in the year end June 2023. Performance during the year was mainly driven by technology and financial sectors.</li>
-            <li>Australia's economy grew 0.2% q-o-q in Q1 2025. While this fell short of the 0.4% market forecast, it marked the 14th consecutive quarter of expansion. OECD adjusted its GDP growth forecast for Australia in 2025 from 1.9% to 1.8%.</li>
-            <li>Australian household net worth reached A$17.3 trillion in the March quarter, up from A$16.2 trillion a year earlier. Property remained the largest asset class at A$11.7 trillion, growing by 5.9% annually. Superannuation assets increased by 6.6% to A$4.14 trillion, while shares and equities rose by 8% to A$1.57 trillion.</li>
-            <li>The World Bank left its forecast for China unchanged at 4.5% from January, saying Beijing still had monetary and fiscal space to support its economy and stimulate growth.</li>
-            <li>President Trump has upended global trade with a series of on-again, off-again tariff hikes that have increased the effective U.S. tariff rate from below 3% to the mid-teens - its highest level in almost a century - and triggered retaliation by China and other countries.</li>
-            <li>The US economy remained resilient in June, with equity markets hitting record highs amid easing geopolitical risks from the Iran-Israel ceasefire and a rollback of reciprocal tariffs. Expectations for 2-3 Fed rate cuts by year-end strengthened as inflation showed signs of moderation and financial conditions remained supportive.</li>
-            <li>A weakening U.S. dollar has reinvigorated investor interest in Emerging Market assets. Notably, emerging market local currency debt experienced a resurgence, with bond funds recording eight consecutive weeks of inflows and returns exceeding 10% year-to-date.</li>
-            <li>The eurozone's GDP is projected to grow by 0.9% in 2025, a downward revision from earlier forecasts, primarily due to heightened trade tensions and global uncertainty. Inflation is expected to average 2.0% in 2025, aligning with the European Central Bank's (ECB) target, before dipping to 1.6%.</li>
-            <li>The US 10-year yield rose over the month as strong jobs data and sticky inflation reduced the likelihood of a July Fed rate cut, while fiscal concerns mounted following Senate approval of a $3.3 trillion deficit-financed tax bill.</li>
-            <li>Australian government bond yields ended June slightly higher at the long end, while the 2-year yield eased as markets began to price in rate cuts in 2026 amid softening growth momentum. The yield curve steepened modestly, with RBA commentary remaining hawkish due to persistent services inflation and a tight labour market.</li>
-            <li>Gold miners delivered 60% for the year. Gold is set to surpass metallurgical coal to become Australia's 3rd biggest resource export earner in 2025-2026.</li>
+            <li>September saw global equities extend their rally, supported by the start of the U.S. easing cycle and improving growth sentiment. Bonds also gained as yields moved lower, particularly at the long end of the curve.</li>
+            <li>The S&P/ASX 200 declined 0.8% in September, snapping its five-month winning streak. 9 out of 11 sectors reported losses with financials falling 1.4% detracting meaningfully given their index weight. Energy took the biggest fall returning -9.8% on the back of lower oil price. </li>
+            <li>Materials stood out as the strongest performer on the ASX, rising 6.1% on the back of strength in gold and diversified miners.</li>
+            <li>Emerging markets (+5.7%), particularly China (China Top 50 +6.7%), outperformed developed peers. Improving macro data and continued policy support underpinned performance. </li>
+            <li>U.S. equities recorded a fifth consecutive month of gains. The S&P 500 posted its best September month in 15 years, gaining 3.7%, in what has historically been the worst month for stocks. This was supported by a Federal Reserve rate cut.</li>
+            <li>Large cap equities outperformed mid and smalls in the US. Growth was the dominant factor outperforming value.</li>
+            <li>Sector performance was split in September, with Technology leading the way, bouncing back from a negative August, advancing over 7.5%. Consumer Staples, Materials, and Energy all went negative, with Financials virtually flat at 0.1% in September.</li>
+            <li>European equities advanced 1% for September continuing their positive run. However, german equities have been a drag for the quarter falling 1.2% behind political uncertainty.</li>
+            <li>The Federal Reserve cut the federal funds rate by 25bps in September 2025, bringing it to the 4.00%-4.25% range, in line with expectations. It is the first reduction in borrowing costs since December.</li>
+            <li>The RBA decided to leave the cash rate unchanged at 3.60 per cent at its September meeting. Bond indices were positive or neutral for the month.</li>
+            <li>Commodites exteneded their rally. Gold reached record highs and copper saw a surge in prices. Rare earths performed well due to supply chain strain.</li>
+                       
         </ul>
         <br>
                                                               
@@ -93,16 +94,16 @@
             case '1-performance':
                 content = `
                     <h1>PMP Wealth Real Assets Model</h1>
-                    <h4>Updated to: 30 June 2025</h2>
+                    <h4>Updated to: 30 September 2025</h2>
                     <h4>Inception:  31 December 2022</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>                    
-                    <p>The PMP Wealth Real Assets Model delivered 0.4% for the month, and 5.7% over the quarter. </p>
-                    <p>Over the last 12 months, the PMP Wealth Real Assets Model delivered 13.9%, significantly beating Inflation by 11.8%. 
-                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Real Assets Model has significantly outperformed over the last 12 months. </p>
+                    <p>The PMP Wealth Real Assets Model delivered -1.4% for the month, and 3.4% over the quarter. </p>
+                    <p>Over the last 12 months, the PMP Wealth Real Assets Model delivered 4.0%,  beating Inflation by 2.0%. 
+                    Relative to the Peer Group (FE AMI Peer Average), PMP Wealth Real Assets Model has materially outperformed over the last 12 months. </p>
                     
                     
                     
@@ -125,8 +126,8 @@
                     <h4>Last 90 Days - Return Analysis</h4>
                     <iframe src="./Charts/1_Performance-Bar90.html" height="370px" width="950px"></iframe>
                     <div class="page-break"></div>
-                    <h4>Portfolio Performance Heatmap - Latest Month</h4>
-                    <iframe src="./Charts/6_Sleeve_Treemap1_1Mth.html" height="1020px" width="950px"></iframe>
+                    <h4>Portfolio Performance Heatmap - Latest 3 Months</h4>
+                    <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="1020px" width="950px"></iframe>
                     <br>
                     <h2>LATEST INTRA-MONTH UPDATE</h2>
                     <iframe src="./Charts/1_Performance-Latest.html" height="370px" width="950px"></iframe>
@@ -152,17 +153,14 @@
                     <br>      
                     <h4>Drawdown Periods & Recovery</h4>
                     <iframe src="./Charts/2_Drawdown.html" height="370px" width="950px"></iframe>
-                    <h4>Rolling 3yr Calmar Ratio - Return over Drawdown Risk </h4>
-                    <p>The below Calmar Ratio explains the return achieved relative to the drawdown risk taken. A higher Calmar Ratio indicates a more favorable risk-adjusted return for the investment</p>
-                    <iframe src="./Charts/2_Calmar3yr.html" height="370px" width="950px"></iframe>
+                    
                     <h4>Rolling 3yr Tracking Error - Level of Relative Risk Being Taken</h4>
                     <iframe src="./Charts/2_TE3yr.html" height="370px" width="950px"></iframe>
                     <h4>Rolling 3yr Batting Average - % of Months Outperforming Benchmark Return</h4>
                     <iframe src="./Charts/2_Batting3yr.html" height="370px" width="950px"></iframe>
                     <h4>90 Day Volatility</h4>
                     <iframe src="./Charts/2_Vol90.html" height="370px" width="950px"></iframe>
-                    <h4>1 Year Volatility</h4>
-                    <iframe src="./Charts/2_Vol1yr.html" height="370px" width="950px"></iframe>
+                    
                     
                 `;
                 break;
@@ -312,11 +310,7 @@
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br> 
-                    
-                    <div class="page-break"></div>
-                    <h4>Portfolio Performance Heatmap - Latest Month</h4>
-                    <iframe src="./Charts/6_Sleeve_Treemap1_1Mth.html" height="1020px" width="950px"></iframe>
-
+                                        
                     <div class="page-break"></div>
                     <h4>Portfolio Performance Heatmap - Latest Quarter</h4>
                     <iframe src="./Charts/6_Sleeve_Treemap1_3Mth.html" height="1020px" width="950px"></iframe>
@@ -504,37 +498,37 @@
     <tr>
       <th>0</th>
       <td>Australian Shares</td>
-      <td>BM_Rajomon_AE</td>
+      <td>BM_AusShares</td>
       <td>100% iShares Core S&amp;P/ASX 200 ETF</td>
     </tr>
     <tr>
       <th>1</th>
       <td>International Shares</td>
-      <td>BM_Rajomon_IE</td>
+      <td>BM_IntShares_85DM15EM</td>
       <td>85% Vanguard MSCI Index International Shares ETF + 15% iShares MSCI Emerging Markets ETF</td>
     </tr>
     <tr>
       <th>2</th>
       <td>Real Assets</td>
-      <td>BM_Rajomon_PS</td>
+      <td>BM_RealAssets</td>
       <td>20% AMI Property - Australia Direct + 25% iShares Australian Listed Property ETF + 30% BlackRock iShares Global Listed Property Index (hedged) + 25% Vanguard Global Infrastructure Index ETF</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Alternatives</td>
-      <td>BM_Rajomon_Alts</td>
+      <td>BM_Alts</td>
       <td>100% iShares Core Cash ETF</td>
     </tr>
     <tr>
       <th>4</th>
       <td>Long Duration</td>
-      <td>BM_Rajomon_IS</td>
+      <td>BM_Duration</td>
       <td>50% iShares Core Composite Bond ETF + 50% Vanguard International Fixed Income ETF</td>
     </tr>
     <tr>
       <th>5</th>
       <td>Floating Rate</td>
-      <td>BM_Rajomon_Credit</td>
+      <td>BM_Floating</td>
       <td>100% VanEck Australian Floating Rate ETF</td>
     </tr>
     <tr>

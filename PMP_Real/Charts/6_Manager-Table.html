@@ -9,7 +9,7 @@
                                             /* Add CSS style for table */
                                             table.dataframe {
                                                 border-collapse: collapse;
-                                                max-width: 950px; /* Restrict table width to a maximum of 950px */
+                                                max-width: 1250px; /* Restrict table width to a maximum of 950px */
                                                 width: 100%;
                                                 border-radius: 10px; /* Adjust the border radius as needed */
                                                 overflow: hidden; /* Ensure the border-radius is applied */
@@ -21,6 +21,13 @@
                                                 padding: 8px; /* Adjust padding as needed */
                                                 text-align: center; /* Adjust text alignment as needed */
                                             }
+                                            
+                                            /* Make second column (names) wider */
+                                            table.dataframe td:nth-child(2),
+                                            table.dataframe th:nth-child(2) {
+                                                width: 300px;  /* or adjust as needed */
+                                                text-align: left;
+                                            }
 
                                             table.dataframe th {
                                                 background-color: #3D555E; /* Optional: Add background color for header */
@@ -31,102 +38,108 @@
                                             tr:hover {
                                                 background-color: #1DC8F2;
                                             }
+                                            
+                                            table.dataframe {
+                                                border-collapse: collapse;
+                                                max-width: 1300px;
+                                                width: 100%;
+                                                border-radius: 10px;
+                                                overflow: hidden;
+                                            }
+                                        
+                                            table.dataframe th,
+                                            table.dataframe td {
+                                                border: none;
+                                                padding: 8px;
+                                                text-align: center;
+                                            }
+                                        
+                                            table.dataframe th {
+                                                background-color: #3D555E;
+                                                color: #E7EAEB;
+                                            }
+                                        
+                                            /* Base hover effect */
+                                            tr:hover {
+                                                background-color: #1DC8F2;
+                                            }
+                                        
+                                            tr.bm-row {
+                                                background-color: #1DC8F2; /* Always blue */
+                                                font-weight: bold;
+                                            }
+                                            
                                         </style>
                                     </head>
                                     <body>
-                                        <table border="1" class="dataframe">
+                                        <table class="dataframe">
   <thead>
-    <tr style="text-align: center;">
+    <tr>
       <th></th>
+      <th>ShortName</th>
       <th>1 Month</th>
-      <th>2 Months</th>
       <th>3 Months</th>
       <th>6 Months</th>
       <th>1 Year</th>
       <th>2 Years (p.a.)</th>
       <th>3 Years (p.a.)</th>
-      <th>4 Years (p.a.)</th>
       <th>5 Years (p.a.)</th>
-      <th>6 Years (p.a.)</th>
       <th>7 Years (p.a.)</th>
       <th>Since Inception (p.a.)</th>
-    </tr>
-    <tr>
-      <th>Code</th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <th>TGP0016AU</th>
-      <td>0.26</td>
-      <td>2.42</td>
-      <td>4.02</td>
-      <td>11.74</td>
-      <td>19.45</td>
-      <td>8.66</td>
-      <td>5.84</td>
-      <td>4.35</td>
-      <td>3.47</td>
-      <td>2.88</td>
-      <td>2.46</td>
-      <td>2.15</td>
+      <td>CB RARE Infra Income H</td>
+      <td>2.03</td>
+      <td>2.34</td>
+      <td>6.46</td>
+      <td>8.21</td>
+      <td>15.63</td>
+      <td>8.15</td>
+      <td>7.98</td>
+      <td>9.3</td>
+      <td>8.82</td>
     </tr>
     <tr>
       <th>VAN0004AU</th>
-      <td>1.67</td>
-      <td>6.65</td>
-      <td>13.39</td>
-      <td>5.78</td>
-      <td>13.43</td>
-      <td>18.32</td>
-      <td>13.11</td>
-      <td>9.69</td>
-      <td>7.68</td>
-      <td>6.36</td>
-      <td>5.42</td>
-      <td>4.73</td>
+      <td>VG AREIT</td>
+      <td>-2.93</td>
+      <td>4.71</td>
+      <td>18.73</td>
+      <td>3.98</td>
+      <td>23.01</td>
+      <td>19.1</td>
+      <td>11.66</td>
+      <td>8.12</td>
+      <td>8.11</td>
     </tr>
     <tr>
       <th>VAN0018AU</th>
-      <td>-1.17</td>
-      <td>0.55</td>
-      <td>-1.97</td>
-      <td>-0.98</td>
-      <td>12.97</td>
-      <td>8.40</td>
-      <td>6.70</td>
-      <td>4.99</td>
-      <td>3.97</td>
-      <td>3.30</td>
-      <td>2.82</td>
-      <td>2.46</td>
-    </tr>
-    <tr>
-      <th>BM_RealAssets</th>
-      <td>0.52</td>
-      <td>2.91</td>
-      <td>4.25</td>
-      <td>3.38</td>
-      <td>9.37</td>
-      <td>8.25</td>
-      <td>5.85</td>
+      <td>VG GREIT</td>
+      <td>-0.4</td>
+      <td>2.13</td>
+      <td>0.12</td>
+      <td>2.94</td>
+      <td>11.36</td>
+      <td>7.81</td>
+      <td>7.05</td>
+      <td>4.2</td>
       <td>4.36</td>
-      <td>3.47</td>
-      <td>2.89</td>
-      <td>2.47</td>
-      <td>2.16</td>
+    </tr>
+    <tr class="bm-row">
+      <th>BM_RealAssets</th>
+      <td>BM: Real Assets</td>
+      <td>-0.05</td>
+      <td>3.66</td>
+      <td>8.07</td>
+      <td>2.49</td>
+      <td>12.89</td>
+      <td>8.89</td>
+      <td>6.54</td>
+      <td>5.72</td>
+      <td>5.58</td>
     </tr>
   </tbody>
 </table>
