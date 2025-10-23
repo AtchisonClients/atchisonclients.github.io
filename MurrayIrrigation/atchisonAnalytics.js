@@ -258,8 +258,7 @@
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
                     <br>              
-                    <h4>Contribution Analysis of Asset Class Sleeves</h4>
-                    <iframe src="./Charts/5_Sleeve_Contribs.html" height="380px" width="950px"></iframe>
+
                 `;
                 break;
             case '6-components':
@@ -289,18 +288,13 @@
                     <div class="page-break"></div>
                     <h4>Real Asset Component Analysis</h4>
                     <iframe src="./Charts/6_Real_Sleeve_Components.html" height="400px" width="950px"></iframe>
-                    
-                    <div class="page-break"></div>
-                    <h4>Alternatives Component Analysis</h4>
-                    <iframe src="./Charts/6_Alts_Sleeve_Components.html" height="400px" width="950px"></iframe>
-                    
+
+
                     <div class="page-break"></div>
                     <h4>Duration Component Analysis</h4>
                     <iframe src="./Charts/6_Duration_Sleeve_Components.html" height="400px" width="950px"></iframe>
                     
-                    <div class="page-break"></div>
-                    <h4>Floating Rate Component Analysis</h4>
-                    <iframe src="./Charts/6_Floating_Sleeve_Components.html" height="400px" width="950px"></iframe>
+
                 `;
                 break;
             case '7-heatmap':
