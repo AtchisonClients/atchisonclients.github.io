@@ -4,7 +4,7 @@
                                     <head>
                                         <meta charset="UTF-8">
                                         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-                                        <title>Performance Table</title>
+                                        <title>Manager Performance Table</title>
                                         <style>
                                             /* Add CSS style for table */
                                             table.dataframe {
@@ -61,11 +61,16 @@
                                         
                                             /* Base hover effect */
                                             tr:hover {
-                                                background-color: #1DC8F2;
+                                                background-color: #C0F992;
                                             }
                                         
                                             tr.bm-row {
                                                 background-color: #1DC8F2; /* Always blue */
+                                                font-weight: bold;
+                                            }
+                                            
+                                            tr.subtotal-row {
+                                                background-color: #93DFF8; /* Always blue */
                                                 font-weight: bold;
                                             }
                                             
@@ -90,329 +95,394 @@
   </thead>
   <tbody>
     <tr>
-      <th>IOZ-AU</th>
+      <th style="text-align: left; padding-left: 4em;">IOZ-AU</th>
       <td>iShares ASX 200</td>
-      <td>3.16</td>
-      <td>7.09</td>
-      <td>11.76</td>
-      <td>14.79</td>
-      <td>14.72</td>
-      <td>12.98</td>
-      <td>12.23</td>
-      <td>9.07</td>
-      <td>9.72</td>
+      <td>1.82</td>
+      <td>0.44</td>
+      <td>3.14</td>
+      <td>7.41</td>
+      <td>11.16</td>
+      <td>9.71</td>
+      <td>10.14</td>
+      <td>10.04</td>
+      <td>8.76</td>
     </tr>
     <tr>
-      <th>HOW2217AU</th>
+      <th style="text-align: left; padding-left: 4em;">HOW2217AU</th>
       <td>Merlon Concentrated AusEq</td>
-      <td>1.99</td>
-      <td>6.93</td>
-      <td>8.21</td>
-      <td>13.17</td>
-      <td>12.46</td>
-      <td>13.3</td>
-      <td>15.19</td>
-      <td>9.54</td>
-      <td>9.27</td>
+      <td>1.78</td>
+      <td>1.90</td>
+      <td>1.34</td>
+      <td>6.99</td>
+      <td>10.41</td>
+      <td>9.56</td>
+      <td>12.17</td>
+      <td>10.65</td>
+      <td>9.07</td>
     </tr>
     <tr class="bm-row">
-      <th>BM_AusShares</th>
+      <th style="text-align: left; padding-left: 4em;">BM_AusShares</th>
       <td>BM: Australian Shares</td>
-      <td>3.1</td>
-      <td>7.0</td>
-      <td>11.61</td>
-      <td>14.66</td>
-      <td>14.68</td>
-      <td>12.94</td>
-      <td>12.21</td>
-      <td>9.07</td>
-      <td>9.7</td>
-    </tr>
-    <tr>
-      <th>VGS-AU</th>
-      <td>VG MSCI World</td>
-      <td>0.75</td>
-      <td>7.25</td>
-      <td>7.06</td>
-      <td>21.76</td>
-      <td>19.69</td>
-      <td>20.48</td>
-      <td>15.66</td>
-      <td>13.36</td>
-      <td>14.23</td>
-    </tr>
-    <tr>
-      <th>VGAD-AU</th>
-      <td>VG MSCI World Hedged </td>
-      <td>1.51</td>
-      <td>8.86</td>
-      <td>10.27</td>
-      <td>15.98</td>
-      <td>18.82</td>
-      <td>16.46</td>
-      <td>12.4</td>
-      <td>10.69</td>
-      <td>11.18</td>
-    </tr>
-    <tr>
-      <th>CIM0008AU</th>
-      <td>Capital Group New H</td>
-      <td>0.88</td>
-      <td>6.02</td>
-      <td>6.24</td>
-      <td>13.02</td>
-      <td>16.32</td>
-      <td>15.1</td>
-      <td>9.15</td>
-      <td>10.37</td>
-      <td>11.27</td>
-    </tr>
-    <tr>
-      <th>FID0031AU</th>
-      <td>Fidelity EM</td>
-      <td>1.89</td>
-      <td>5.78</td>
-      <td>10.3</td>
-      <td>20.49</td>
-      <td>8.03</td>
-      <td>8.04</td>
-      <td>5.96</td>
-      <td>7.7</td>
-      <td>8.52</td>
-    </tr>
-    <tr>
-      <th>CIM0006AU</th>
-      <td>CapGroup New Persp</td>
-      <td>-0.11</td>
-      <td>5.17</td>
-      <td>4.91</td>
-      <td>19.22</td>
-      <td>18.05</td>
-      <td>19.45</td>
-      <td>12.72</td>
-      <td>12.94</td>
-      <td>14.3</td>
-    </tr>
-    <tr>
-      <th>VISM-AU</th>
-      <td>VG Int Smalls</td>
-      <td>3.69</td>
-      <td>9.79</td>
-      <td>9.74</td>
-      <td>18.58</td>
-      <td>14.42</td>
-      <td>14.42</td>
-      <td>12.9</td>
-      <td>10.27</td>
+      <td>1.77</td>
+      <td>0.41</td>
+      <td>3.09</td>
+      <td>7.37</td>
+      <td>11.12</td>
+      <td>9.72</td>
+      <td>10.13</td>
+      <td>10.03</td>
       <td>8.74</td>
     </tr>
-    <tr class="bm-row">
-      <th>BM_IntShares_85DM15EM</th>
-      <td>BM: International Shares</td>
-      <td>0.75</td>
-      <td>6.79</td>
-      <td>6.1</td>
-      <td>20.47</td>
-      <td>18.75</td>
-      <td>19.29</td>
-      <td>14.5</td>
-      <td>12.2</td>
-      <td>13.06</td>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VGS-AU</th>
+      <td>VG MSCI World</td>
+      <td>-2.67</td>
+      <td>-3.65</td>
+      <td>2.07</td>
+      <td>5.98</td>
+      <td>16.54</td>
+      <td>20.29</td>
+      <td>14.88</td>
+      <td>14.74</td>
+      <td>13.43</td>
     </tr>
     <tr>
-      <th>IFRA-AU</th>
-      <td>VanEck Glb Infra H</td>
-      <td>1.58</td>
-      <td>3.71</td>
-      <td>7.21</td>
-      <td>10.94</td>
-      <td>12.5</td>
-      <td>4.5</td>
-      <td>7.4</td>
-      <td>6.01</td>
-      <td>5.67</td>
-    </tr>
-    <tr>
-      <th>SSB6429AU</th>
-      <td>RARE Infra Income</td>
-      <td>-1.2</td>
-      <td>0.16</td>
-      <td>7.59</td>
-      <td>16.79</td>
-      <td>13.13</td>
-      <td>4.68</td>
-      <td>2.94</td>
-      <td>2.09</td>
-      <td>1.79</td>
-    </tr>
-    <tr>
-      <th>QRI-AU</th>
-      <td>Qualitas Prop Inc</td>
-      <td>0.88</td>
-      <td>4.11</td>
-      <td>5.78</td>
-      <td>8.62</td>
-      <td>10.91</td>
-      <td>12.66</td>
-      <td>9.87</td>
-      <td>7.39</td>
-      <td>6.3</td>
-    </tr>
-    <tr class="bm-row">
-      <th>BM_RealAssets</th>
-      <td>BM: Real Assets</td>
-      <td>2.52</td>
-      <td>4.25</td>
-      <td>6.03</td>
-      <td>5.5</td>
-      <td>9.96</td>
-      <td>5.35</td>
-      <td>6.52</td>
-      <td>5.52</td>
-      <td>5.59</td>
-    </tr>
-    <tr>
-      <th>GOLD-AU</th>
-      <td>ETFS Physical Gold</td>
-      <td>2.15</td>
-      <td>1.57</td>
-      <td>13.27</td>
-      <td>40.37</td>
-      <td>31.28</td>
-      <td>27.23</td>
-      <td>13.78</td>
-      <td>17.27</td>
-      <td>14.91</td>
-    </tr>
-    <tr>
-      <th>HGI1794AU</th>
-      <td>Janus Gbl Multi Strat</td>
-      <td>-0.21</td>
-      <td>0.8</td>
-      <td>4.64</td>
-      <td>4.56</td>
-      <td>3.59</td>
-      <td>2.73</td>
-      <td>2.34</td>
-      <td>1.67</td>
-      <td>1.43</td>
-    </tr>
-    <tr class="bm-row">
-      <th>BM_Alts</th>
-      <td>BM: Alternatives</td>
-      <td>0.31</td>
-      <td>0.96</td>
-      <td>2.02</td>
-      <td>4.34</td>
-      <td>4.42</td>
-      <td>4.09</td>
-      <td>2.52</td>
-      <td>2.14</td>
-      <td>2.09</td>
-    </tr>
-    <tr>
-      <th>IAF-AU</th>
-      <td>iShares Aus Bond</td>
-      <td>0.31</td>
-      <td>1.21</td>
-      <td>2.97</td>
-      <td>4.15</td>
-      <td>4.69</td>
-      <td>3.62</td>
-      <td>-0.18</td>
-      <td>1.59</td>
-      <td>1.82</td>
-    </tr>
-    <tr>
-      <th>VBND-AU</th>
-      <td>VG Global Agg</td>
-      <td>0.5</td>
-      <td>1.4</td>
-      <td>1.39</td>
-      <td>2.36</td>
-      <td>4.27</td>
-      <td>1.89</td>
-      <td>-1.3</td>
-      <td>0.78</td>
-      <td>0.82</td>
-    </tr>
-    <tr>
-      <th>BLK1402AU</th>
-      <td>iShares Aus Bond</td>
-      <td>0.32</td>
-      <td>1.04</td>
-      <td>2.31</td>
-      <td>2.74</td>
-      <td>3.9</td>
-      <td>3.09</td>
-      <td>1.85</td>
-      <td>1.31</td>
-      <td>1.13</td>
-    </tr>
-    <tr>
-      <th>BLK4812AU</th>
-      <td>iShares Glb Bond</td>
-      <td>0.46</td>
-      <td>1.22</td>
-      <td>0.29</td>
-      <td>0.79</td>
-      <td>3.27</td>
-      <td>2.02</td>
-      <td>1.21</td>
-      <td>0.86</td>
-      <td>0.74</td>
-    </tr>
-    <tr class="bm-row">
-      <th>BM_Duration</th>
-      <td>BM: Duration</td>
-      <td>0.39</td>
+      <th style="text-align: left; padding-left: 4em;">VGAD-AU</th>
+      <td>VG MSCI World Hedged </td>
       <td>1.11</td>
-      <td>2.18</td>
-      <td>3.46</td>
-      <td>4.4</td>
-      <td>2.91</td>
-      <td>-0.45</td>
-      <td>1.36</td>
-      <td>1.53</td>
+      <td>2.27</td>
+      <td>9.72</td>
+      <td>16.04</td>
+      <td>19.08</td>
+      <td>19.00</td>
+      <td>12.53</td>
+      <td>13.10</td>
+      <td>11.63</td>
     </tr>
     <tr>
-      <th>IOF0145AU</th>
-      <td>Janus Tactical Inc</td>
-      <td>0.53</td>
-      <td>1.66</td>
-      <td>3.2</td>
-      <td>5.79</td>
-      <td>6.09</td>
-      <td>5.64</td>
-      <td>3.12</td>
-      <td>3.16</td>
-      <td>3.13</td>
+      <th style="text-align: left; padding-left: 4em;">IJP-AU</th>
+      <td>iShares Japan </td>
+      <td>2.06</td>
+      <td>-0.36</td>
+      <td>10.02</td>
+      <td>15.92</td>
+      <td>13.84</td>
+      <td>17.15</td>
+      <td>9.33</td>
+      <td>9.45</td>
+      <td>8.05</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">CIM0008AU</th>
+      <td>Capital Group New H</td>
+      <td>1.41</td>
+      <td>1.22</td>
+      <td>7.84</td>
+      <td>12.30</td>
+      <td>16.96</td>
+      <td>16.27</td>
+      <td>8.28</td>
+      <td>12.55</td>
+      <td>11.15</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">FID0031AU</th>
+      <td>Fidelity EM</td>
+      <td>1.90</td>
+      <td>0.81</td>
+      <td>11.54</td>
+      <td>20.52</td>
+      <td>16.51</td>
+      <td>9.39</td>
+      <td>4.27</td>
+      <td>9.18</td>
+      <td>8.55</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">CIM0006AU</th>
+      <td>CapGroup New Persp</td>
+      <td>-1.98</td>
+      <td>-3.44</td>
+      <td>1.32</td>
+      <td>5.62</td>
+      <td>16.03</td>
+      <td>18.59</td>
+      <td>11.20</td>
+      <td>14.45</td>
+      <td>13.10</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VISM-AU</th>
+      <td>VG Int Smalls</td>
+      <td>0.94</td>
+      <td>2.44</td>
+      <td>7.52</td>
+      <td>8.88</td>
+      <td>14.52</td>
+      <td>14.40</td>
+      <td>9.93</td>
+      <td>10.95</td>
+      <td>9.96</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">QUAL-AU</th>
+      <td>VE Global Quality Eq</td>
+      <td>-1.92</td>
+      <td>-2.14</td>
+      <td>3.48</td>
+      <td>2.37</td>
+      <td>13.45</td>
+      <td>21.72</td>
+      <td>15.04</td>
+      <td>16.59</td>
+      <td>15.30</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VVLU-AU</th>
+      <td>VG Global Value Eq</td>
+      <td>-0.64</td>
+      <td>5.09</td>
+      <td>10.57</td>
+      <td>11.43</td>
+      <td>15.17</td>
+      <td>16.48</td>
+      <td>17.23</td>
+      <td>12.48</td>
+      <td>10.69</td>
     </tr>
     <tr class="bm-row">
-      <th>BM_Floating</th>
-      <td>BM: Floating</td>
-      <td>0.44</td>
-      <td>1.22</td>
-      <td>2.38</td>
-      <td>5.05</td>
-      <td>5.21</td>
-      <td>4.86</td>
-      <td>3.02</td>
-      <td>2.78</td>
-      <td>2.76</td>
+      <th style="text-align: left; padding-left: 4em;">BM_IntShares_85DM15EM</th>
+      <td>BM: International Shares</td>
+      <td>-1.82</td>
+      <td>-2.63</td>
+      <td>4.27</td>
+      <td>9.67</td>
+      <td>17.62</td>
+      <td>19.24</td>
+      <td>13.82</td>
+      <td>13.72</td>
+      <td>12.56</td>
     </tr>
     <tr>
-      <th>AUD</th>
-      <td>Cash</td>
-      <td>0.31</td>
-      <td>0.96</td>
-      <td>2.02</td>
-      <td>4.34</td>
-      <td>4.42</td>
-      <td>4.09</td>
-      <td>2.52</td>
-      <td>2.14</td>
-      <td>2.09</td>
+      <th style="text-align: left; padding-left: 4em;">VAP-AU</th>
+      <td>VG AREIT</td>
+      <td>-3.05</td>
+      <td>-5.06</td>
+      <td>-3.44</td>
+      <td>0.93</td>
+      <td>10.76</td>
+      <td>10.04</td>
+      <td>8.78</td>
+      <td>6.70</td>
+      <td>7.02</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IFRA-AU</th>
+      <td>VanEck Glb Infra H</td>
+      <td>2.49</td>
+      <td>3.59</td>
+      <td>6.50</td>
+      <td>13.49</td>
+      <td>14.56</td>
+      <td>8.13</td>
+      <td>8.02</td>
+      <td>6.44</td>
+      <td>6.33</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">SSB6429AU</th>
+      <td>RARE Infra Income</td>
+      <td>0.67</td>
+      <td>1.63</td>
+      <td>3.52</td>
+      <td>16.23</td>
+      <td>15.08</td>
+      <td>9.93</td>
+      <td>3.90</td>
+      <td>2.77</td>
+      <td>2.55</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">OMF1896AU</th>
+      <td>Euree AREIT</td>
+      <td>-2.41</td>
+      <td>-4.09</td>
+      <td>-2.59</td>
+      <td>2.22</td>
+      <td>9.07</td>
+      <td>9.70</td>
+      <td>5.72</td>
+      <td>4.05</td>
+      <td>3.73</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 4em;">BM_RealAssets</th>
+      <td>BM: Real Assets</td>
+      <td>0.15</td>
+      <td>-0.42</td>
+      <td>2.18</td>
+      <td>5.40</td>
+      <td>8.17</td>
+      <td>5.42</td>
+      <td>5.25</td>
+      <td>5.09</td>
+      <td>5.31</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">GOLD-AU</th>
+      <td>ETFS Physical Gold</td>
+      <td>14.20</td>
+      <td>21.56</td>
+      <td>45.30</td>
+      <td>64.65</td>
+      <td>54.22</td>
+      <td>39.04</td>
+      <td>24.75</td>
+      <td>21.79</td>
+      <td>21.01</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">HGI1794AU</th>
+      <td>Janus Gbl Multi Strat</td>
+      <td>0.91</td>
+      <td>2.13</td>
+      <td>3.90</td>
+      <td>8.50</td>
+      <td>6.39</td>
+      <td>4.55</td>
+      <td>3.17</td>
+      <td>2.26</td>
+      <td>2.08</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">QRI-AU</th>
+      <td>Qualitas Prop Inc</td>
+      <td>0.92</td>
+      <td>2.11</td>
+      <td>1.30</td>
+      <td>3.73</td>
+      <td>7.90</td>
+      <td>10.13</td>
+      <td>8.09</td>
+      <td>6.67</td>
+      <td>6.85</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 4em;">BM_Alts</th>
+      <td>BM: Alternatives</td>
+      <td>0.30</td>
+      <td>0.91</td>
+      <td>1.87</td>
+      <td>3.96</td>
+      <td>4.29</td>
+      <td>4.21</td>
+      <td>2.83</td>
+      <td>2.24</td>
+      <td>2.22</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IAF-AU</th>
+      <td>iShares Aus Bond</td>
+      <td>0.37</td>
+      <td>-1.28</td>
+      <td>-0.60</td>
+      <td>3.10</td>
+      <td>3.04</td>
+      <td>2.76</td>
+      <td>-0.44</td>
+      <td>1.12</td>
+      <td>1.47</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VBND-AU</th>
+      <td>VG Global Agg</td>
+      <td>0.05</td>
+      <td>-0.04</td>
+      <td>1.95</td>
+      <td>4.46</td>
+      <td>3.36</td>
+      <td>2.90</td>
+      <td>-1.14</td>
+      <td>0.71</td>
+      <td>1.01</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">BGL0008AU</th>
+      <td>iShares Global Bond</td>
+      <td>0.21</td>
+      <td>0.11</td>
+      <td>1.32</td>
+      <td>3.29</td>
+      <td>2.59</td>
+      <td>2.59</td>
+      <td>-0.89</td>
+      <td>0.78</td>
+      <td>1.05</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">BLK1402AU</th>
+      <td>iShares Aus Bond</td>
+      <td>0.20</td>
+      <td>-1.32</td>
+      <td>-1.23</td>
+      <td>1.67</td>
+      <td>1.89</td>
+      <td>2.06</td>
+      <td>1.53</td>
+      <td>1.09</td>
+      <td>1.01</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 4em;">BM_Duration</th>
+      <td>BM: Duration</td>
+      <td>0.19</td>
+      <td>-0.63</td>
+      <td>0.69</td>
+      <td>3.56</td>
+      <td>3.17</td>
+      <td>2.96</td>
+      <td>-0.52</td>
+      <td>1.10</td>
+      <td>1.35</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IOF0145AU</th>
+      <td>Janus Tactical Inc</td>
+      <td>0.69</td>
+      <td>0.83</td>
+      <td>2.42</td>
+      <td>5.85</td>
+      <td>5.52</td>
+      <td>5.73</td>
+      <td>3.20</td>
+      <td>3.30</td>
+      <td>3.24</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 4em;">BM_Floating</th>
+      <td>BM: Floating</td>
+      <td>0.81</td>
+      <td>1.48</td>
+      <td>2.67</td>
+      <td>5.14</td>
+      <td>5.30</td>
+      <td>5.15</td>
+      <td>3.36</td>
+      <td>2.98</td>
+      <td>2.93</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">BILL-AU</th>
+      <td>iShares Cash</td>
+      <td>0.28</td>
+      <td>0.91</td>
+      <td>1.85</td>
+      <td>3.96</td>
+      <td>4.26</td>
+      <td>4.19</td>
+      <td>2.84</td>
+      <td>2.27</td>
+      <td>2.25</td>
     </tr>
   </tbody>
 </table>

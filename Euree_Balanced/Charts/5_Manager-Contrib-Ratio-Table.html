@@ -1,0 +1,315 @@
+
+                                                    <!DOCTYPE html>
+                                                    <html lang="en">
+                                                    <head>
+                                                        <meta charset="UTF-8">
+                                                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                                        <title>Manager Contribution Ratio Table</title>
+                                                        <style>
+                                                            /* Add CSS style for table */
+                                                            table.dataframe {
+                                                                border-collapse: collapse;
+                                                                max-width: 1250px; /* Restrict table width to a maximum of 950px */
+                                                                width: 100%;
+                                                                border-radius: 10px; /* Adjust the border radius as needed */
+                                                                overflow: hidden; /* Ensure the border-radius is applied */
+                                                            }
+
+                                                            table.dataframe th,
+                                                            table.dataframe td {
+                                                                border: none;
+                                                                padding: 8px; /* Adjust padding as needed */
+                                                                text-align: center; /* Adjust text alignment as needed */
+                                                            }
+
+                                                            /* Make second column (names) wider */
+                                                            table.dataframe td:nth-child(2),
+                                                            table.dataframe th:nth-child(2) {
+                                                                width: 300px;  /* or adjust as needed */
+                                                                text-align: left;
+                                                            }
+
+                                                            table.dataframe th {
+                                                                background-color: #3D555E; /* Optional: Add background color for header */
+                                                                color: #E7EAEB;
+                                                            }
+
+                                                            /* Add CSS rule for hover effect */
+                                                            tr:hover {
+                                                                background-color: #1DC8F2;
+                                                            }
+
+                                                            table.dataframe {
+                                                                border-collapse: collapse;
+                                                                max-width: 1300px;
+                                                                width: 100%;
+                                                                border-radius: 10px;
+                                                                overflow: hidden;
+                                                            }
+
+                                                            table.dataframe th,
+                                                            table.dataframe td {
+                                                                border: none;
+                                                                padding: 8px;
+                                                                text-align: center;
+                                                            }
+
+                                                            table.dataframe th {
+                                                                background-color: #3D555E;
+                                                                color: #E7EAEB;
+                                                            }
+
+                                                            /* Base hover effect */
+                                                            tr:hover {
+                                                                background-color: #1DC8F2;
+                                                            }
+
+                                                            tr.bm-row {
+                                                                background-color: #1DC8F2; /* Always blue */
+                                                                font-weight: bold;
+                                                            }
+
+                                                        </style>
+                                                    </head>
+                                                    <body>
+                                                        <table class="dataframe">
+  <thead>
+    <tr>
+      <th></th>
+      <th>ShortName</th>
+      <th>Asset Class</th>
+      <th>1 Year</th>
+      <th>2 Years (p.a.)</th>
+      <th>Since Inception (p.a.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VGS-AU</th>
+      <td>VG MSCI World</td>
+      <td>International Shares</td>
+      <td>0.20</td>
+      <td>6.70</td>
+      <td>7.20</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VGAD-AU</th>
+      <td>VG MSCI World Hedged </td>
+      <td>International Shares</td>
+      <td>7.30</td>
+      <td>8.20</td>
+      <td>10.20</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IJP-AU</th>
+      <td>iShares Japan </td>
+      <td>International Shares</td>
+      <td>-0.10</td>
+      <td>-0.00</td>
+      <td>-0.00</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">CIM0008AU</th>
+      <td>Capital Group New H</td>
+      <td>International Shares</td>
+      <td>1.80</td>
+      <td>8.90</td>
+      <td>9.30</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">FID0031AU</th>
+      <td>Fidelity EM</td>
+      <td>International Shares</td>
+      <td>4.00</td>
+      <td>1.60</td>
+      <td>1.30</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">CIM0006AU</th>
+      <td>CapGroup New Persp</td>
+      <td>International Shares</td>
+      <td>0.60</td>
+      <td>12.40</td>
+      <td>12.40</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VISM-AU</th>
+      <td>VG Int Smalls</td>
+      <td>International Shares</td>
+      <td>1.60</td>
+      <td>1.10</td>
+      <td>0.90</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">QUAL-AU</th>
+      <td>VE Global Quality Eq</td>
+      <td>International Shares</td>
+      <td>-0.60</td>
+      <td>-0.20</td>
+      <td>-0.20</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VVLU-AU</th>
+      <td>VG Global Value Eq</td>
+      <td>International Shares</td>
+      <td>0.30</td>
+      <td>0.10</td>
+      <td>0.10</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 2em;">TOTAL_International Shares</th>
+      <td>TOTAL</td>
+      <td>International Shares</td>
+      <td>15.10</td>
+      <td>38.80</td>
+      <td>41.20</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VAP-AU</th>
+      <td>VG AREIT</td>
+      <td>Real Assets</td>
+      <td>-0.70</td>
+      <td>-0.30</td>
+      <td>-0.20</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IFRA-AU</th>
+      <td>VanEck Glb Infra H</td>
+      <td>Real Assets</td>
+      <td>4.50</td>
+      <td>2.70</td>
+      <td>3.00</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">SSB6429AU</th>
+      <td>RARE Infra Income</td>
+      <td>Real Assets</td>
+      <td>9.30</td>
+      <td>6.30</td>
+      <td>4.70</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">OMF1896AU</th>
+      <td>Euree AREIT</td>
+      <td>Real Assets</td>
+      <td>-2.10</td>
+      <td>2.00</td>
+      <td>5.50</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 2em;">TOTAL_Real Assets</th>
+      <td>TOTAL</td>
+      <td>Real Assets</td>
+      <td>11.00</td>
+      <td>10.70</td>
+      <td>13.00</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">GOLD-AU</th>
+      <td>ETFS Physical Gold</td>
+      <td>Alternatives</td>
+      <td>58.10</td>
+      <td>38.30</td>
+      <td>30.70</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">HGI1794AU</th>
+      <td>Janus Gbl Multi Strat</td>
+      <td>Alternatives</td>
+      <td>1.40</td>
+      <td>1.10</td>
+      <td>0.80</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">QRI-AU</th>
+      <td>Qualitas Prop Inc</td>
+      <td>Alternatives</td>
+      <td>1.00</td>
+      <td>2.90</td>
+      <td>4.10</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 2em;">TOTAL_Alternatives</th>
+      <td>TOTAL</td>
+      <td>Alternatives</td>
+      <td>60.50</td>
+      <td>42.30</td>
+      <td>35.60</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IAF-AU</th>
+      <td>iShares Aus Bond</td>
+      <td>Long Duration</td>
+      <td>2.80</td>
+      <td>1.30</td>
+      <td>2.10</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">VBND-AU</th>
+      <td>VG Global Agg</td>
+      <td>Long Duration</td>
+      <td>2.90</td>
+      <td>1.50</td>
+      <td>2.80</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">BGL0008AU</th>
+      <td>iShares Global Bond</td>
+      <td>Long Duration</td>
+      <td>1.70</td>
+      <td>0.60</td>
+      <td>0.50</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">BLK1402AU</th>
+      <td>iShares Aus Bond</td>
+      <td>Long Duration</td>
+      <td>1.30</td>
+      <td>1.20</td>
+      <td>1.00</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 2em;">TOTAL_Long Duration</th>
+      <td>TOTAL</td>
+      <td>Long Duration</td>
+      <td>8.70</td>
+      <td>4.60</td>
+      <td>6.40</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">IOF0145AU</th>
+      <td>Janus Tactical Inc</td>
+      <td>Floating Rate</td>
+      <td>3.20</td>
+      <td>3.00</td>
+      <td>3.40</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 2em;">TOTAL_Floating Rate</th>
+      <td>TOTAL</td>
+      <td>Floating Rate</td>
+      <td>3.20</td>
+      <td>3.00</td>
+      <td>3.40</td>
+    </tr>
+    <tr>
+      <th style="text-align: left; padding-left: 4em;">BILL-AU</th>
+      <td>iShares Cash</td>
+      <td>Cash</td>
+      <td>1.30</td>
+      <td>0.50</td>
+      <td>0.40</td>
+    </tr>
+    <tr class="bm-row">
+      <th style="text-align: left; padding-left: 2em;">TOTAL_Cash</th>
+      <td>TOTAL</td>
+      <td>Cash</td>
+      <td>1.30</td>
+      <td>0.50</td>
+      <td>0.40</td>
+    </tr>
+  </tbody>
+</table>
+                                                    </body>
+                                                    </html>
+                                                    
