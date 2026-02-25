@@ -96,7 +96,7 @@
                 content = `
                     <h1>Euree Growth Portfolio</h1>
                     <h4>Updated to: 20 February 2026</h2>
-                    <h4>Inception:  31 December 2022</h2>
+                    <h4>Inception:  22 August 2023</h2>
                     <br>
                     <h2>PORTFOLIO PERFORMANCE</h2>
                     <hr style="border-color: #1DC8F2; width: 80%; margin: 0 auto;">
@@ -112,7 +112,7 @@
                     
                     
                     
-                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 31 December 2022. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
+                    <p>All performance metrics listed above are net of appointed investment management fees but before tax. Where noted, the Since Inception date of this analysis is: 22 August 2023. All performance is based on daily asset returns using portfolio target weights. Where a portfolio target weight change has been input into the dataset, it is assumed to have been applied as at the end of day asset valuations. </p>          
                     <h4>Returns vs Benchmarks</h4>
                     <iframe src="./Charts/1_Performance-Main_v2.html" height="420px" width="950px"></iframe>
                     <iframe src="./Charts/1_Performance-RelTable_v3.html" height="250px" width="950px"></iframe>
